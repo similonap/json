@@ -9,7 +9,7 @@ import axios from "axios";
 (async() => {
 
     let games : any[] = [];
-    let result = await axios.get("https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=6F15918DE9BC7ECD19BDAC706B2CD947&steamid=76561197978493365&format=json");
+    let result = await axios.get("https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=KEY&steamid=76561197978493365&format=json");
     
     for (let game of result.data.response.games.slice(0,50)) {
         try {

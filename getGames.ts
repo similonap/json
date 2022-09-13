@@ -1,4 +1,11 @@
 import axios from "axios";
+// export interface Game {
+//     id?: number,
+//     name: string,
+//     releaseYear: number,
+//     sales: number,
+//     minimumAge: number
+// }
 (async() => {
 
     let games : any[] = [];
@@ -11,7 +18,7 @@ import axios from "axios";
         let data = gameData.data[game.appid].data;
 
         if (data.release_date.date) {
-            games.push({releaseYear: new Date(data.release_date.date).getFullYear(), age: data.required_age, name: data.name, description: data.about_the_game, image: data.header_image, developer: data.developers[0], platforms: data.platforms});
+            games.push({releaseYear: new Date(data.release_date.date).getFullYear(), minimumAge: data.required_age, name: data.name, description: data.about_the_game, image: data.header_image, developer: data.developers[0], platforms: data.platforms});
         }
         } catch (e) {
             //console.log(e);

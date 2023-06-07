@@ -1,0 +1,52 @@
+[
+    {
+        "handle": "Cookie",
+        "name": "Cookie",
+        "bio": "Adventurous murloc who loves exploring and making friends. Always up for a challenge! 🐟🌲"
+    },
+    {
+        "handle": "WarchiefThrall",
+        "name": "Thrall",
+        "bio": "Warchief of the Horde, powerful shaman, and protector of Azeroth. Working towards peace and unity. 🌩️🔨"
+    },
+    {
+        "handle": "ArchmageJaina",
+        "name": "Jaina Proudmoore",
+        "bio": "Leader of the Kirin Tor, powerful mage, and advocate for peace. Making Azeroth a better place, one spell at a time. ✨📚"
+    },
+    {
+        "handle": "BansheeQueen",
+        "name": "Sylvanas Windrunner",
+        "bio": "Banshee Queen of the Forsaken, master archer, and cunning strategist. Reclaiming what was lost. 🏹🧟‍♀️"
+    },
+    {
+        "handle": "KingVarian",
+        "name": "Varian Wrynn",
+        "bio": "King of Stormwind, skilled warrior, and loving father. Fighting for the Alliance and a brighter future. ⚔️👑"
+    },
+    {
+        "handle": "HighPriestess",
+        "name": "Tyrande Whisperwind",
+        "bio": "High Priestess of Elune, skilled huntress, and leader of the Night Elves. Guided by the light of Elune. 🌙🏹"
+    },
+    {
+        "handle": "TheBetrayed",
+        "name": "Illidan Stormrage",
+        "bio": "Demon hunter, master of the fel, and misunderstood hero. Fighting the Burning Legion to save Azeroth. 🔥🗡️"
+    },
+    {
+        "handle": "TheLichKing",
+        "name": "Arthas Menethil",
+        "bio": "The Lich King, ruler of the Scourge, and master of Icecrown Citadel. Bringing cold and darkness to Azeroth. ❄️👑"
+    },
+    {
+        "handle": "PrinceAnduin",
+        "name": "Anduin Wrynn",
+        "bio": "Prince of Stormwind, devoted priest, and aspiring leader. Learning from the best to protect Azeroth. 🙏📖"
+    },
+    {
+        "handle": "JonDoe",
+        "name": "Jon Doe",
+        "bio": "Mysterious maverick, pun enthusiast, and part-time ninja 🕶️. On a quest to discover the world's best dad jokes and hidden emojis 🕵️. #AnonymousAdventurer"
+    }
+]

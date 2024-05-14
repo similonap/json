@@ -1,113 +1,136 @@
-{ "videos": [
-  {
-    "title": "Don't click this video",
-    "url": "https://www.youtube.com/watch?v=xvFZjo5PgG0",
-    "description": "A hilarious rickroll classic. Don't you dare click!"
-  },
-  {
-    "title": "Leroy Jenkins",
-    "url": "https://www.youtube.com/watch?v=mLyOj_QD4a4",
-    "description": "An epic World of Warcraft fail. At least I have chicken!"
-  },
-  {
-    "title": "Bagger 288",
-    "url": "https://www.youtube.com/watch?v=azEvfD4C6ow",
-    "description": "The world's largest land vehicle in action. A true engineering marvel!"
-  },
-  {
-    "title": "Badger Badger",
-    "url": "https://www.youtube.com/watch?v=EIyixC9NsLI",
-    "description": "A catchy tune about badgers and mushrooms. Nostalgic internet gold!"
-  },
-  {
-    "title": "Charlie bit my finger",
-    "url": "https://www.youtube.com/watch?v=_OBlgSz8sSM",
-    "description": "A viral classic of sibling rivalry. So cute and funny!"
-  },
-  {
-    "title": "Nyan Cat",
-    "url": "https://www.youtube.com/watch?v=QH2-TGUlwu4",
-    "description": "A mesmerizing and addictive pop-tart cat flying through space."
-  },
-  {
-    "title": "Double Rainbow",
-    "url": "https://www.youtube.com/watch?v=OQSNhk5ICTI",
-    "description": "A man's ecstatic reaction to seeing a double rainbow. Pure joy!"
-  },
-  {
-    "title": "David After Dentist",
-    "url": "https://www.youtube.com/watch?v=txqiwrbYGrs",
-    "description": "A young boy's funny and confused post-dental surgery reaction."
-  },
-  {
-    "title": "Evolution of Dance",
-    "url": "https://www.youtube.com/watch?v=dMH0bHeiRNg",
-    "description": "A hilarious dance performance showcasing the evolution of dance moves."
-  },
-  {
-    "title": "Dramatic Chipmunk",
-    "url": "https://www.youtube.com/watch?v=a1Y73sPHKxw",
-    "description": "A chipmunk's dramatic head turn with intense music. Short but unforgettable!"
-  },
-  {
-    "title": "Keyboard Cat",
-    "url": "https://www.youtube.com/watch?v=J---aiyznGQ",
-    "description": "An adorable cat playing a catchy tune on the keyboard. Internet legend!"
-  },
-  {
-    "title": "Sneezing Panda",
-    "url": "https://www.youtube.com/watch?v=FzRH3iTQPrk",
-    "description": "A baby panda startling its mother with a powerful sneeze. Adorable and funny!"
-  },
-  {
-    "title": "Charlie the Unicorn",
-    "url": "https://www.youtube.com/watch?v=CsGYh8AacgY",
-    "description": "A whimsical and bizarre adventure with a sarcastic unicorn."
-  },
-  {
-    "title": "Star Wars Kid",
-    "url": "https://www.youtube.com/watch?v=HPPj6viIBmU",
-    "description": "A teenager's enthusiastic Star Wars reenactment with a golf ball retriever."
-  },
-  {
-    "title": "Hide Yo Kids, Hide Yo Wife",
-    "url": "https://www.youtube.com/watch?v=EzNhaLUT520",
-    "description": "A memorable news interview turned into a catchy autotune song."
-  },
-  {
-    "title": "The Duck Song",
-    "url": "https://www.youtube.com/watch?v=MtN1YnoL46Q",
-    "description": "A catchy and funny song about a duck asking for grapes."
-  },
-  {
-    "title": "Ultimate Dog Tease",
-    "url": "https://www.youtube.com/watch?v=nGeKSiCQkPw",
-    "description": "A hilarious video of a talking dog reacting to food teases."
-  },
-  {
-    "title": "Potter Puppet Pals: The Mysterious Ticking Noise",
-    "url": "https://www.youtube.com/watch?v=Tx1XIm6q4r4",
-    "description": "A funny Harry Potter parody with puppets and a catchy tune."
-  },
-  {
-    "title": "Trololo",
-    "url": "https://www.youtube.com/watch?v=oavMtUWDBTM",
-    "description": "A strange and catchy performance by Eduard Khil, also known as Trololo Guy."
-  },
-  {
-    "title": "Gangnam Style",
-    "url": "https://www.youtube.com/watch?v=9bZkp7q19f0",
-    "description": "PSY's viral hit with its unforgettable dance moves."
-  },
-  {
-    "title": "My Spoon is Too Big",
-    "url": "https://www.youtube.com/watch?v=W7JyjZI3LUM",
-    "description": "A surreal and humorous animation from Don Hertzfeldt."
-  },
-  {
-    "title": "It's a Trap!",
-    "url": "https://www.youtube.com/watch?v=4F4qzPbcFiA",
-    "description": "Admiral Ackbar's famous line from Star Wars turned into a meme."
-  }
-]
+{
+  "videos": [
+    {
+      "title": "Don't click this video",
+      "url": "https://www.youtube.com/watch?v=xvFZjo5PgG0",
+      "description": "A hilarious rickroll classic. Don't you dare click!",
+      "rating": 9.0
+    },
+    {
+      "title": "Leroy Jenkins",
+      "url": "https://www.youtube.com/watch?v=mLyOj_QD4a4",
+      "description": "An epic World of Warcraft fail. At least I have chicken!",
+      "rating": 8.5
+    },
+    {
+      "title": "Bagger 288",
+      "url": "https://www.youtube.com/watch?v=azEvfD4C6ow",
+      "description": "The world's largest land vehicle in action. A true engineering marvel!",
+      "rating": 7.5
+    },
+    {
+      "title": "Badger Badger",
+      "url": "https://www.youtube.com/watch?v=EIyixC9NsLI",
+      "description": "A catchy tune about badgers and mushrooms. Nostalgic internet gold!",
+      "rating": 8.0
+    },
+    {
+      "title": "Charlie bit my finger",
+      "url": "https://www.youtube.com/watch?v=_OBlgSz8sSM",
+      "description": "A viral classic of sibling rivalry. So cute and funny!",
+      "rating": 9.5
+    },
+    {
+      "title": "Nyan Cat",
+      "url": "https://www.youtube.com/watch?v=QH2-TGUlwu4",
+      "description": "A mesmerizing and addictive pop-tart cat flying through space.",
+      "rating": 8.7
+    },
+    {
+      "title": "Double Rainbow",
+      "url": "https://www.youtube.com/watch?v=OQSNhk5ICTI",
+      "description": "A man's ecstatic reaction to seeing a double rainbow. Pure joy!",
+      "rating": 8.2
+    },
+    {
+      "title": "David After Dentist",
+      "url": "https://www.youtube.com/watch?v=txqiwrbYGrs",
+      "description": "A young boy's funny and confused post-dental surgery reaction.",
+      "rating": 8.8
+    },
+    {
+      "title": "Evolution of Dance",
+      "url": "https://www.youtube.com/watch?v=dMH0bHeiRNg",
+      "description": "A hilarious dance performance showcasing the evolution of dance moves.",
+      "rating": 8.9
+    },
+    {
+      "title": "Dramatic Chipmunk",
+      "url": "https://www.youtube.com/watch?v=a1Y73sPHKxw",
+      "description": "A chipmunk's dramatic head turn with intense music. Short but unforgettable!",
+      "rating": 8.4
+    },
+    {
+      "title": "Keyboard Cat",
+      "url": "https://www.youtube.com/watch?v=J---aiyznGQ",
+      "description": "An adorable cat playing a catchy tune on the keyboard. Internet legend!",
+      "rating": 8.6
+    },
+    {
+      "title": "Sneezing Panda",
+      "url": "https://www.youtube.com/watch?v=FzRH3iTQPrk",
+      "description": "A baby panda startling its mother with a powerful sneeze. Adorable and funny!",
+      "rating": 9.1
+    },
+    {
+      "title": "Charlie the Unicorn",
+      "url": "https://www.youtube.com/watch?v=CsGYh8AacgY",
+      "description": "A whimsical and bizarre adventure with a sarcastic unicorn.",
+      "rating": 7.8
+    },
+    {
+      "title": "Star Wars Kid",
+      "url": "https://www.youtube.com/watch?v=HPPj6viIBmU",
+      "description": "A teenager's enthusiastic Star Wars reenactment with a golf ball retriever.",
+      "rating": 8.1
+    },
+    {
+      "title": "Hide Yo Kids, Hide Yo Wife",
+      "url": "https://www.youtube.com/watch?v=EzNhaLUT520",
+      "description": "A memorable news interview turned into a catchy autotune song.",
+      "rating": 8.3
+    },
+    {
+      "title": "The Duck Song",
+      "url": "https://www.youtube.com/watch?v=MtN1YnoL46Q",
+      "description": "A catchy and funny song about a duck asking for grapes.",
+      "rating": 8.0
+    },
+    {
+      "title": "Ultimate Dog Tease",
+      "url": "https://www.youtube.com/watch?v=nGeKSiCQkPw",
+      "description": "A hilarious video of a talking dog reacting to food teases.",
+      "rating": 8.9
+    },
+    {
+      "title": "Potter Puppet Pals: The Mysterious Ticking Noise",
+      "url": "https://www.youtube.com/watch?v=Tx1XIm6q4r4",
+      "description": "A funny Harry Potter parody with puppets and a catchy tune.",
+      "rating": 8.5
+    },
+    {
+      "title": "Trololo",
+      "url": "https://www.youtube.com/watch?v=oavMtUWDBTM",
+      "description": "A strange and catchy performance by Eduard Khil, also known as Trololo Guy.",
+      "rating": 8.4
+    },
+    {
+      "title": "Gangnam Style",
+      "url": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+      "description": "PSY's viral hit with its unforgettable dance moves.",
+      "rating": 9.2
+    },
+    {
+      "title": "My Spoon is Too Big",
+      "url": "https://www.youtube.com/watch?v=W7JyjZI3LUM",
+      "description": "A surreal and humorous animation from Don Hertzfeldt.",
+      "rating": 7.9
+    },
+    {
+      "title": "It's a Trap!",
+      "url": "https://www.youtube.com/watch?v=4F4qzPbcFiA",
+      "description": "Admiral Ackbar's famous line from Star Wars turned into a meme.",
+      "rating": 8.3
+    }
+  ]
 }

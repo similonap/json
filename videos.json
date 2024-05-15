@@ -131,6 +131,18 @@
       "url": "https://www.youtube.com/watch?v=4F4qzPbcFiA",
       "description": "Admiral Ackbar's famous line from Star Wars turned into a meme.",
       "rating": 8.3
+    },
+    {
+      "title": "GIT, the beast that never sleeps!",
+      "url": "https://www.youtube.com/watch?v=vk2iJab4Ye0",
+      "description": "A rock song about GIT!",
+      "rating": 9.9
+    },
+    {
+      "title": "MongoDB - Bring back the form",
+      "url": "https://www.youtube.com/watch?v=KJPg3f6oTLk",
+      "description": "A rap song about MongoDB and its many flaws.",
+      "rating": 8.9      
     }
   ]
 }

@@ -1,0 +1,140 @@
+[
+    {
+      "name": "Stranger Things",
+      "link": "https://www.netflix.com/watch/80117470",
+      "summary": "A thrilling series about kids in the 80s uncovering supernatural mysteries in their small town.",
+      "score": 9.0
+    },
+    {
+      "name": "The Witcher",
+      "link": "https://www.netflix.com/watch/80189685",
+      "summary": "A fantasy series following Geralt of Rivia, a monster hunter, as he navigates a world full of magic and danger.",
+      "score": 8.5
+    },
+    {
+      "name": "Black Mirror",
+      "link": "https://www.netflix.com/watch/70264888",
+      "summary": "An anthology series exploring the dark side of modern and future society with twisted, thought-provoking stories.",
+      "score": 9.0
+    },
+    {
+      "name": "The Crown",
+      "link": "https://www.netflix.com/watch/80025678",
+      "summary": "A historical drama chronicling the reign of Queen Elizabeth II and the events that shaped the second half of the 20th century.",
+      "score": 8.7
+    },
+    {
+      "name": "Money Heist",
+      "link": "https://www.netflix.com/watch/80192098",
+      "summary": "A gripping heist drama about a group of robbers who plan and execute the biggest heist in Spanish history.",
+      "score": 8.9
+    },
+    {
+      "name": "Narcos",
+      "link": "https://www.netflix.com/watch/80025172",
+      "summary": "A dramatic portrayal of the rise and fall of notorious drug kingpin Pablo Escobar and the Medellín cartel.",
+      "score": 8.8
+    },
+    {
+      "name": "Ozark",
+      "link": "https://www.netflix.com/watch/80117552",
+      "summary": "A financial planner relocates his family to the Ozarks after a money laundering scheme goes wrong, becoming entangled with local criminals.",
+      "score": 8.4
+    },
+    {
+      "name": "BoJack Horseman",
+      "link": "https://www.netflix.com/watch/70300800",
+      "summary": "An animated series about a washed-up actor who happens to be a horse, dealing with addiction, depression, and self-destructive behavior.",
+      "score": 8.6
+    },
+    {
+      "name": "The Umbrella Academy",
+      "link": "https://www.netflix.com/watch/80186863",
+      "summary": "A dysfunctional family of adopted superhero siblings reunite to solve the mystery of their father's death and prevent an impending apocalypse.",
+      "score": 8.3
+    },
+    {
+      "name": "13 Reasons Why",
+      "link": "https://www.netflix.com/watch/80117470",
+      "summary": "A high school student discovers a series of cassette tapes recorded by his deceased classmate, revealing the reasons for her suicide.",
+      "score": 7.9
+    },
+    {
+      "name": "Lucifer",
+      "link": "https://www.netflix.com/watch/80057918",
+      "summary": "The Devil himself abandons Hell to run a nightclub in Los Angeles, where he becomes a consultant to the LAPD.",
+      "score": 8.5
+    },
+    {
+      "name": "The Haunting of Hill House",
+      "link": "https://www.netflix.com/watch/80189221",
+      "summary": "A chilling horror series that alternates between past and present, focusing on a family dealing with haunting memories of their old home.",
+      "score": 8.7
+    },
+    {
+      "name": "House of Cards",
+      "link": "https://www.netflix.com/watch/70178217",
+      "summary": "A ruthless politician will stop at nothing to conquer Washington D.C. in this political drama series.",
+      "score": 8.8
+    },
+    {
+      "name": "Daredevil",
+      "link": "https://www.netflix.com/watch/80018294",
+      "summary": "Blinded as a young boy but imbued with extraordinary senses, Matt Murdock fights injustice by day as a lawyer and by night as Daredevil.",
+      "score": 8.6
+    },
+    {
+      "name": "The Queen's Gambit",
+      "link": "https://www.netflix.com/watch/80234304",
+      "summary": "An orphaned chess prodigy struggles with addiction in a quest to become the greatest chess player in the world.",
+      "score": 8.9
+    },
+    {
+      "name": "Bridgerton",
+      "link": "https://www.netflix.com/watch/80232398",
+      "summary": "A period drama set in Regency-era London, following the lives and loves of the Bridgerton family.",
+      "score": 8.2
+    },
+    {
+      "name": "Shadow and Bone",
+      "link": "https://www.netflix.com/watch/80236319",
+      "summary": "In a world cleaved in two by a massive barrier of perpetual darkness, a young soldier uncovers a power that might unite her country.",
+      "score": 7.7
+    },
+    {
+      "name": "You",
+      "link": "https://www.netflix.com/watch/80211991",
+      "summary": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by.",
+      "score": 7.8
+    },
+    {
+      "name": "Sex Education",
+      "link": "https://www.netflix.com/watch/80197526",
+      "summary": "A teenage boy with a sex therapist mother teams up with a high school classmate to set up an underground sex therapy clinic at school.",
+      "score": 8.3
+    },
+    {
+      "name": "Tiger King",
+      "link": "https://www.netflix.com/watch/81115994",
+      "summary": "A true crime documentary series about the life of zookeeper Joe Exotic and the world of big cat breeding.",
+      "score": 7.6
+    },
+    {
+      "name": "Mindhunter",
+      "link": "https://www.netflix.com/watch/80114855",
+      "summary": "Two FBI agents expand criminal science by delving into the psychology of murder and getting uneasily close to all-too-real monsters.",
+      "score": 8.6
+    },
+    {
+      "name": "Big Mouth",
+      "link": "https://www.netflix.com/watch/80117038",
+      "summary": "An animated series following a group of teenagers, their puberty struggles, and their interactions with personified hormones.",
+      "score": 8.0
+    },
+    {
+      "name": "Love, Death & Robots",
+      "link": "https://www.netflix.com/watch/80174608",
+      "summary": "An anthology series presenting animated shorts that span multiple genres, including science fiction, fantasy, horror, and comedy.",
+      "score": 8.4
+    }
+]

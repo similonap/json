@@ -1,0 +1,198 @@
+[
+    {
+        "title": "Dark",
+        "url": "https://www.netflix.com/watch/80100172",
+        "description": "A mind-bending German series that explores time travel and its impact on human nature.",
+        "rating": 8.8,
+        "genre": "Science Fiction"
+    },
+    {
+        "title": "Breaking Bad",
+        "url": "https://www.netflix.com/watch/70143836",
+        "description": "A high school chemistry teacher turned methamphetamine manufacturer navigates the drug trade and its dangers.",
+        "rating": 9.5,
+        "genre": "Crime"
+    },
+    {
+        "title": "Peaky Blinders",
+        "url": "https://www.netflix.com/watch/80002479",
+        "description": "A historical drama about a notorious gang in post-World War I Birmingham, England.",
+        "rating": 8.9,
+        "genre": "Drama"
+    },
+    {
+        "title": "The Mandalorian",
+        "url": "https://www.disneyplus.com/watch/80204953",
+        "description": "A lone bounty hunter navigates the outer reaches of the galaxy, protecting a mysterious child.",
+        "rating": 8.7,
+        "genre": "Fantasy"
+    },
+    {
+        "title": "Chernobyl",
+        "url": "https://www.hbo.com/watch/80100274",
+        "description": "A gripping dramatization of the catastrophic 1986 nuclear disaster and the heroes who fought to mitigate its consequences.",
+        "rating": 9.4,
+        "genre": "Drama"
+    },
+    {
+        "title": "Fleabag",
+        "url": "https://www.amazon.com/watch/80179277",
+        "description": "A witty and brutally honest woman navigates life and love in London while coping with personal tragedy.",
+        "rating": 8.7,
+        "genre": "Comedy"
+    },
+    {
+        "title": "Stranger Things",
+        "url": "https://www.netflix.com/watch/80117470",
+        "description": "A thrilling series about kids in the 80s uncovering supernatural mysteries in their small town.",
+        "rating": 9.0,
+        "genre": "Supernatural"
+    },
+    {
+        "title": "The Queen's Gambit",
+        "url": "https://www.netflix.com/watch/80234304",
+        "description": "An orphaned chess prodigy struggles with addiction in a quest to become the greatest chess player in the world.",
+        "rating": 8.9,
+        "genre": "Drama"
+    },
+    {
+        "title": "Black Mirror",
+        "url": "https://www.netflix.com/watch/70264888",
+        "description": "An anthology series exploring the dark side of modern and future society with twisted, thought-provoking stories.",
+        "rating": 9.0,
+        "genre": "Science Fiction"
+    },
+    {
+        "title": "The Witcher",
+        "url": "https://www.netflix.com/watch/80189685",
+        "description": "A fantasy series following Geralt of Rivia, a monster hunter, as he navigates a world full of magic and danger.",
+        "rating": 8.5,
+        "genre": "Fantasy"
+    },
+    {
+        "title": "Money Heist",
+        "url": "https://www.netflix.com/watch/80192098",
+        "description": "A gripping heist drama about a group of robbers who plan and execute the biggest heist in Spanish history.",
+        "rating": 8.9,
+        "genre": "Crime"
+    },
+    {
+        "title": "Narcos",
+        "url": "https://www.netflix.com/watch/80025172",
+        "description": "A dramatic portrayal of the rise and fall of notorious drug kingpin Pablo Escobar and the Medellín cartel.",
+        "rating": 8.8,
+        "genre": "Crime"
+    },
+    {
+        "title": "BoJack Horseman",
+        "url": "https://www.netflix.com/watch/70300800",
+        "description": "An animated series about a washed-up actor who happens to be a horse, dealing with addiction, depression, and self-destructive behavior.",
+        "rating": 8.6,
+        "genre": "Animation"
+    },
+    {
+        "title": "The Umbrella Academy",
+        "url": "https://www.netflix.com/watch/80186863",
+        "description": "A dysfunctional family of adopted superhero siblings reunite to solve the mystery of their father's death and prevent an impending apocalypse.",
+        "rating": 8.3,
+        "genre": "Superhero"
+    },
+    {
+        "title": "The Crown",
+        "url": "https://www.netflix.com/watch/80025678",
+        "description": "A historical drama chronicling the reign of Queen Elizabeth II and the events that shaped the second half of the 20th century.",
+        "rating": 8.7,
+        "genre": "Drama"
+    },
+    {
+        "title": "13 Reasons Why",
+        "url": "https://www.netflix.com/watch/80117470",
+        "description": "A high school student discovers a series of cassette tapes recorded by his deceased classmate, revealing the reasons for her suicide.",
+        "rating": 7.9,
+        "genre": "Drama"
+    },
+    {
+        "title": "Lucifer",
+        "url": "https://www.netflix.com/watch/80057918",
+        "description": "The Devil himself abandons Hell to run a nightclub in Los Angeles, where he becomes a consultant to the LAPD.",
+        "rating": 8.5,
+        "genre": "Fantasy"
+    },
+    {
+        "title": "The Haunting of Hill House",
+        "url": "https://www.netflix.com/watch/80189221",
+        "description": "A chilling horror series that alternates between past and present, focusing on a family dealing with haunting memories of their old home.",
+        "rating": 8.7,
+        "genre": "Horror"
+    },
+    {
+        "title": "House of Cards",
+        "url": "https://www.netflix.com/watch/70178217",
+        "description": "A ruthless politician will stop at nothing to conquer Washington D.C. in this political drama series.",
+        "rating": 8.8,
+        "genre": "Drama"
+    },
+    {
+        "title": "Daredevil",
+        "url": "https://www.netflix.com/watch/80018294",
+        "description": "Blinded as a young boy but imbued with extraordinary senses, Matt Murdock fights injustice by day as a lawyer and by night as Daredevil.",
+        "rating": 8.6,
+        "genre": "Superhero"
+    },
+    {
+        "title": "Bridgerton",
+        "url": "https://www.netflix.com/watch/80232398",
+        "description": "A period drama set in Regency-era London, following the lives and loves of the Bridgerton family.",
+        "rating": 8.2,
+        "genre": "Drama"
+    },
+    {
+        "title": "Shadow and Bone",
+        "url": "https://www.netflix.com/watch/80236319",
+        "description": "In a world cleaved in two by a massive barrier of perpetual darkness, a young soldier uncovers a power that might unite her country.",
+        "rating": 7.7,
+        "genre": "Fantasy"
+    },
+    {
+        "title": "You",
+        "url": "https://www.netflix.com/watch/80211991",
+        "description": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by.",
+        "rating": 7.8,
+        "genre": "Thriller"
+    },
+    {
+        "title": "Sex Education",
+        "url": "https://www.netflix.com/watch/80197526",
+        "description": "A teenage boy with a sex therapist mother teams up with a high school classmate to set up an underground sex therapy clinic at school.",
+        "rating": 8.3,
+        "genre": "Drama"
+    },
+    {
+        "title": "Tiger King",
+        "url": "https://www.netflix.com/watch/81115994",
+        "description": "A true crime documentary series about the life of zookeeper Joe Exotic and the world of big cat breeding.",
+        "rating": 7.6,
+        "genre": "Documentary"
+    },
+    {
+        "title": "Mindhunter",
+        "url": "https://www.netflix.com/watch/80114855",
+        "description": "Two FBI agents expand criminal science by delving into the psychology of murder and getting uneasily close to all-too-real monsters.",
+        "rating": 8.6,
+        "genre": "Crime"
+    },
+    {
+        "title": "Big Mouth",
+        "url": "https://www.netflix.com/watch/80117038",
+        "description": "An animated series following a group of teenagers, their puberty struggles, and their interactions with personified hormones.",
+        "rating": 8.0,
+        "genre": "Animation"
+    },
+    {
+        "title": "Love, Death & Robots",
+        "url": "https://www.netflix.com/watch/80174608",
+        "description": "An anthology series presenting animated shorts that span multiple genres, including science fiction, fantasy, horror, and comedy.",
+        "rating": 8.4,
+        "genre": "Animation"
+    }
+]

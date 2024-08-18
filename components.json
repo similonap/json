@@ -1,0 +1,286 @@
+{
+  "motherboards": [
+    {
+      "brand": "Gigamax",
+      "name": "AX450",
+      "socket": "AM4",
+      "memory_support": ["DDR4", "DDR3"],
+      "price": 179.99,
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great motherboard with solid performance. Easy to install and has plenty of connectivity options."
+        },
+        {
+          "rating": 4,
+          "comment": "Good value for the price, but the BIOS can be a bit tricky to navigate."
+        }
+      ]
+    },
+    {
+      "brand": "AsusRock",
+      "name": "M570",
+      "socket": "AM4",
+      "memory_support": ["DDR4"],
+      "price": 139.99,
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Reliable and stable, but lacks some advanced features. Perfect for a budget build."
+        },
+        {
+          "rating": 5,
+          "comment": "Excellent build quality and easy setup. Highly recommend for anyone using an AM4 socket CPU."
+        }
+      ]
+    },
+    {
+      "brand": "MSA",
+      "name": "Z590 Pro",
+      "socket": "LGA 1200",
+      "memory_support": ["DDR4"],
+      "price": 189.99,
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Fantastic motherboard with all the features you could need. Great for gaming and productivity."
+        },
+        {
+          "rating": 4,
+          "comment": "A bit pricey, but worth it for the features and performance."
+        }
+      ]
+    },
+    {
+      "brand": "BioGig",
+      "name": "B450M DS3H",
+      "socket": "AM4",
+      "memory_support": ["DDR4"],
+      "price": 99.99,
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Affordable and reliable, but lacks some advanced connectivity options."
+        },
+        {
+          "rating": 4,
+          "comment": "Decent for a budget build, but be aware of limited overclocking potential."
+        }
+      ]
+    },
+    {
+      "brand": "ToughPower",
+      "name": "TP570 ATX",
+      "socket": "LGA 1151",
+      "memory_support": ["DDR4", "DDR3"],
+      "price": 129.99,
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Solid motherboard for an older socket. Great for refurbishing an older system."
+        },
+        {
+          "rating": 5,
+          "comment": "Works well with both DDR4 and DDR3, making it very versatile. No major issues."
+        }
+      ]
+    }
+  ],
+  "cpus": [
+    {
+      "brand": "Fryzen",
+      "name": "9 5955X",
+      "socket": "AM4",
+      "cores": 16,
+      "clock": "3.4GHz",
+      "price": 749.99,
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Incredible performance! Perfect for multitasking and heavy workloads."
+        },
+        {
+          "rating": 5,
+          "comment": "Runs everything I throw at it without breaking a sweat. Highly recommended for gamers and creators."
+        }
+      ]
+    },
+    {
+      "brand": "CoreKicker",
+      "name": "i9-11900Z",
+      "socket": "LGA 1200",
+      "cores": 8,
+      "clock": "3.5GHz",
+      "price": 599.99,
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great CPU for gaming and general use. Fast and efficient."
+        },
+        {
+          "rating": 4,
+          "comment": "Very good processor, but the price is a bit steep for the performance increase over the previous generation."
+        }
+      ]
+    },
+    {
+      "brand": "CoreKicker",
+      "name": "i7-11700F",
+      "socket": "LGA 1200",
+      "cores": 8,
+      "clock": "2.9GHz",
+      "price": 349.99,
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Excellent value for money. Performs well in most games and applications."
+        },
+        {
+          "rating": 4,
+          "comment": "Good performance, but runs a little hot under heavy load."
+        }
+      ]
+    },
+    {
+      "brand": "Fryzen",
+      "name": "7 5800X",
+      "socket": "AM4",
+      "cores": 8,
+      "clock": "3.8GHz",
+      "price": 399.99,
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Amazing performance for the price. Great for gaming and content creation."
+        },
+        {
+          "rating": 4,
+          "comment": "Solid CPU, but you might need an aftermarket cooler to keep it cool."
+        }
+      ]
+    },
+    {
+      "brand": "CoreKicker",
+      "name": "i5-11600K",
+      "socket": "LGA 1200",
+      "cores": 6,
+      "clock": "3.9GHz",
+      "price": 269.99,
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "One of the best mid-range CPUs on the market. Handles most tasks with ease."
+        },
+        {
+          "rating": 4,
+          "comment": "Great balance of price and performance. Perfect for a mid-tier gaming rig."
+        }
+      ]
+    },
+    {
+      "brand": "Fryzen",
+      "name": "5 5600G",
+      "socket": "AM4",
+      "cores": 6,
+      "clock": "3.7GHz",
+      "price": 229.99,
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Good all-around processor. Built-in graphics are a nice bonus."
+        },
+        {
+          "rating": 4,
+          "comment": "Affordable and reliable, but not the best for high-end gaming without a dedicated GPU."
+        }
+      ]
+    }
+  ],
+  "memory": [
+    {
+      "brand": "Corsage",
+      "name": "Vengeance LPX",
+      "speed": "3200MHz",
+      "capacity": "16GB",
+      "type": "DDR4",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Fast and reliable memory. Works perfectly with my setup."
+        },
+        {
+          "rating": 4,
+          "comment": "Great performance and value for money. Highly recommend for gaming PCs."
+        }
+      ]
+    },
+    {
+      "brand": "G.Silence",
+      "name": "Ripjaws V",
+      "speed": "3600MHz",
+      "capacity": "32GB",
+      "type": "DDR4",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Fantastic memory with excellent speed. Perfect for high-performance builds."
+        },
+        {
+          "rating": 4,
+          "comment": "Very stable and fast. A bit pricey, but worth it for the performance."
+        }
+      ]
+    },
+    {
+      "brand": "KingViper",
+      "name": "HyperX Fury",
+      "speed": "2666MHz",
+      "capacity": "8GB",
+      "type": "DDR4",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Good basic memory for a budget build. No issues so far."
+        },
+        {
+          "rating": 4,
+          "comment": "Affordable and reliable, but you might want faster memory for gaming."
+        }
+      ]
+    },
+    {
+      "brand": "Ballistrix",
+      "name": "Elite",
+      "speed": "3000MHz",
+      "capacity": "16GB",
+      "type": "DDR4",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Solid performance and great compatibility with my setup."
+        },
+        {
+          "rating": 4,
+          "comment": "Good memory for the price, but there are faster options available."
+        }
+      ]
+    },
+    {
+      "brand": "Crucible",
+      "name": "Sport LT",
+      "speed": "2400MHz",
+      "capacity": "8GB",
+      "type": "DDR4",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Decent performance for a budget memory stick. Works well for basic tasks."
+        },
+        {
+          "rating": 4,
+          "comment": "Affordable and reliable, but not the fastest option out there."
+        }
+      ]
+    }
+  ]
+}

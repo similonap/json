@@ -39,6 +39,166 @@
       "description": "Crispy fries served with a side of our legendary dipping sauce.",
       "type": "Side",
       "image": "https://o7e3hz2moqgbgmdb.public.blob.vercel-storage.com/images/i8524-edDN6P0dyAgPnvwFGwwgpygrPPdeWS"
+    },
+    {
+      "id": 5,
+      "name": "Dragonbreath Chili",
+      "price": 7.5,
+      "allergens": "Gluten, Dairy",
+      "nutriscore": "C",
+      "description": "A spicy chili dish that will heat up your game night.",
+      "type": "Main Course",
+      "image": "https://o7e3hz2moqgbgmdb.public.blob.vercel-storage.com/images/ebe1t-AFnYXTnx9oXjty27WDTlkbDNVOA5rk"
+    },
+    {
+      "id": 6,
+      "name": "Champion's Salad",
+      "price": 8,
+      "allergens": "None",
+      "nutriscore": "A",
+      "description": "A fresh salad made with seasonal vegetables and tangy dressing.",
+      "type": "Salad",
+      "image": "https://o7e3hz2moqgbgmdb.public.blob.vercel-storage.com/images/z1hs3a-5UY3r7JtPJoXjFlm2rNgGXCoLquMTk"
+    },
+    {
+      "id": 7,
+      "name": "Twisted Fate Tacos",
+      "price": 6.5,
+      "allergens": "Gluten, Dairy",
+      "nutriscore": "B",
+      "description": "Tacos filled with spiced chicken and topped with salsa.",
+      "type": "Main Course",
+      "image": "https://o7e3hz2moqgbgmdb.public.blob.vercel-storage.com/images/1f80i-4eGf57aI9pdJcKWxicoivVSLER55EP"
+    },
+    {
+      "id": 8,
+      "name": "Nexus Ice Cream",
+      "price": 4,
+      "allergens": "Dairy",
+      "nutriscore": "B",
+      "description": "Creamy ice cream with a variety of flavors inspired by the champions.",
+      "type": "Dessert",
+      "image": "https://o7e3hz2moqgbgmdb.public.blob.vercel-storage.com/images/17vzvk-p9wYNPGmneDoDNrPqDPrmlKuDVC7LK"
+    },
+    {
+      "id": 9,
+      "name": "Poro Popcorn",
+      "price": 2,
+      "allergens": "None",
+      "nutriscore": "A",
+      "description": "Fluffy popcorn that's fun to snack on while gaming.",
+      "type": "Snack",
+      "image": "https://o7e3hz2moqgbgmdb.public.blob.vercel-storage.com/images/lkv85lh-k9UiIFSbJRDe8SRUj2VlxbrTpgitEt"
+    },
+    {
+      "id": 10,
+      "name": "Zyra's Green Smoothie",
+      "price": 5.5,
+      "allergens": "None",
+      "nutriscore": "A",
+      "description": "A healthy smoothie packed with greens and tropical fruits.",
+      "type": "Drink",
+      "image": "https://o7e3hz2moqgbgmdb.public.blob.vercel-storage.com/images/m2z1mb-Ki0wDX3GjPhlr2XiwES7dU15SUCo5u"
+    },
+    {
+      "id": 11,
+      "name": "Fiora's Grilled Chicken",
+      "price": 11,
+      "allergens": "None",
+      "nutriscore": "B",
+      "description": "Perfectly grilled chicken breast served with rice and beans.",
+      "type": "Main Course",
+      "image": "https://o7e3hz2moqgbgmdb.public.blob.vercel-storage.com/images/rr43qe-dIfuGkwHr8Ta2fPRbDi7W9MyHsVH34"
+    },
+    {
+      "id": 12,
+      "name": "Katarina's Spicy Wings",
+      "price": 9,
+      "allergens": "Gluten, Dairy",
+      "nutriscore": "C",
+      "description": "Spicy chicken wings served with cool ranch dip.",
+      "type": "Appetizer",
+      "image": "https://o7e3hz2moqgbgmdb.public.blob.vercel-storage.com/images/g1s249-9EQmBAzHpuaUuHWOtzU01bnTjl81Fc"
+    },
+    {
+      "id": 13,
+      "name": "Sivir's Energy Bar",
+      "price": 2.5,
+      "allergens": "Nuts, Gluten",
+      "nutriscore": "B",
+      "description": "A nutritious energy bar that keeps you going.",
+      "type": "Snack",
+      "image": "https://o7e3hz2moqgbgmdb.public.blob.vercel-storage.com/images/voi88zn-c2MkUYerWEaEkKewI6GovZNSqIhjwc"
+    },
+    {
+      "id": 14,
+      "name": "Lux's Light Salad",
+      "price": 8.5,
+      "allergens": "None",
+      "nutriscore": "A",
+      "description": "A bright and colorful salad, featuring a variety of fresh veggies.",
+      "type": "Salad",
+      "image": "https://o7e3hz2moqgbgmdb.public.blob.vercel-storage.com/images/2kgx9-TgvzRAjRV3lbY0TwgupikU3ZUFcfba"
+    },
+    {
+      "id": 15,
+      "name": "Jinx's Pop Rocks",
+      "price": 3,
+      "allergens": "Gluten",
+      "nutriscore": "C",
+      "description": "Exploding candy for the wild at heart!",
+      "type": "Dessert",
+      "image": "https://o7e3hz2moqgbgmdb.public.blob.vercel-storage.com/images/6y0x9s-Xm9tyo1GPgJVfba7MoY6aqlH85f8rS"
+    },
+    {
+      "id": 16,
+      "name": "Galio's Giant Burger",
+      "price": 12.99,
+      "allergens": "Gluten, Dairy",
+      "nutriscore": "C",
+      "description": "A colossal burger that satisfies the biggest appetites.",
+      "type": "Main Course",
+      "image": "https://o7e3hz2moqgbgmdb.public.blob.vercel-storage.com/images/kwpons-OsUMjesFFeHJSPDz0MzWeUgQtMP9hp"
+    },
+    {
+      "id": 17,
+      "name": "Riven's Rebel Wrap",
+      "price": 7,
+      "allergens": "Gluten",
+      "nutriscore": "B",
+      "description": "A hearty wrap filled with grilled vegetables and hummus.",
+      "type": "Side",
+      "image": "https://o7e3hz2moqgbgmdb.public.blob.vercel-storage.com/images/vgmba9-TgQgvAcTIFQZKpASWjrFvCgEHIzAWS"
+    },
+    {
+      "id": 18,
+      "name": "Kennen's Shockingly Good Fries",
+      "price": 4,
+      "allergens": "Potatoes",
+      "nutriscore": "A",
+      "description": "Extra crispy fries that pack a punch with flavor!",
+      "type": "Side",
+      "image": "https://o7e3hz2moqgbgmdb.public.blob.vercel-storage.com/images/d7nghl-hV6uEyvsJnoFbtNjU1AkQ66kzcrGCG"
+    },
+    {
+      "id": 19,
+      "name": "Orianna's Sphere Dessert",
+      "price": 5.5,
+      "allergens": "Dairy",
+      "nutriscore": "B",
+      "description": "A rich and creamy dessert shaped like a magical sphere.",
+      "type": "Dessert",
+      "image": "https://o7e3hz2moqgbgmdb.public.blob.vercel-storage.com/images/93bb6-8p1bGj6pX1VahwnXmXmD5ZrafehrS4"
+    },
+    {
+      "id": 20,
+      "name": "Thresh's Lantern Drink",
+      "price": 3.5,
+      "allergens": "None",
+      "nutriscore": "A",
+      "description": "A fizzy drink that lights up your gaming night!",
+      "type": "Drink",
+      "image": "https://o7e3hz2moqgbgmdb.public.blob.vercel-storage.com/images/ee5h54v-18oWPQJa2573usxPKBUDO8N7zlnCS0"
     }
   ],
   "orders": [

@@ -1,0 +1,146 @@
+{
+  "menu-items": [
+    {
+      "id": 1,
+      "name": "Summoner's Burger",
+      "price": 9.99,
+      "allergens": "Gluten, Dairy",
+      "nutriscore": "B",
+      "description": "A juicy beef burger topped with crispy lettuce, juicy tomato, and our special sauce.",
+      "type": "Main Course",
+      "image": "https://o7e3hz2moqgbgmdb.public.blob.vercel-storage.com/images/dmol8i-YZLJxVgJyqkkkFGw2HBJGenyTTBaU1"
+    },
+    {
+      "id": 2,
+      "name": "Mana Potion",
+      "price": 2.5,
+      "allergens": "None",
+      "nutriscore": "A",
+      "description": "A refreshing blue beverage that replenishes your energy.",
+      "type": "Drink",
+      "image": "https://o7e3hz2moqgbgmdb.public.blob.vercel-storage.com/images/5ea1hi-tmxAlTGZ4E2O6fyMboQT3EK6FsEh9F"
+    },
+    {
+      "id": 3,
+      "name": "Baron Nut Mix",
+      "price": 4.99,
+      "allergens": "Nuts",
+      "nutriscore": "C",
+      "description": "A mix of various nuts, perfect for snacking during your games.",
+      "type": "Snack",
+      "image": "https://o7e3hz2moqgbgmdb.public.blob.vercel-storage.com/images/g90i8h-oSyWhXeZlao5ksqZ4VLddCnsMnqUnk"
+    },
+    {
+      "id": 4,
+      "name": "Rift Fries",
+      "price": 3.5,
+      "allergens": "Potatoes",
+      "nutriscore": "B",
+      "description": "Crispy fries served with a side of our legendary dipping sauce.",
+      "type": "Side",
+      "image": "https://o7e3hz2moqgbgmdb.public.blob.vercel-storage.com/images/i8524-edDN6P0dyAgPnvwFGwwgpygrPPdeWS"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "name": "Faker",
+      "items": [
+        1,
+        2,
+        4
+      ],
+      "timestamp": "2023-10-01T12:34:56Z"
+    },
+    {
+      "id": 2,
+      "name": "Caps",
+      "items": [
+        5,
+        6,
+        8
+      ],
+      "timestamp": "2023-10-01T12:35:56Z"
+    },
+    {
+      "id": 3,
+      "name": "Doublelift",
+      "items": [
+        7,
+        9,
+        10
+      ],
+      "timestamp": "2023-10-01T12:36:56Z"
+    },
+    {
+      "id": 4,
+      "name": "Rakan",
+      "items": [
+        11,
+        12,
+        14
+      ],
+      "timestamp": "2023-10-01T12:37:56Z"
+    },
+    {
+      "id": 5,
+      "name": "Jhin",
+      "items": [
+        13,
+        15,
+        16
+      ],
+      "timestamp": "2023-10-01T12:38:56Z"
+    },
+    {
+      "id": 6,
+      "name": "Teemo",
+      "items": [
+        17,
+        18,
+        19
+      ],
+      "timestamp": "2023-10-01T12:39:56Z"
+    },
+    {
+      "id": 7,
+      "name": "Zed",
+      "items": [
+        1,
+        2,
+        3
+      ],
+      "timestamp": "2023-10-01T12:40:56Z"
+    },
+    {
+      "id": 8,
+      "name": "Lee Sin",
+      "items": [
+        4,
+        5,
+        6
+      ],
+      "timestamp": "2023-10-01T12:41:56Z"
+    },
+    {
+      "id": 9,
+      "name": "Ahri",
+      "items": [
+        7,
+        8,
+        9
+      ],
+      "timestamp": "2023-10-01T12:42:56Z"
+    },
+    {
+      "id": 10,
+      "name": "Yasuo",
+      "items": [
+        10,
+        11,
+        12
+      ],
+      "timestamp": "2023-10-01T12:43:56Z"
+    }
+  ]
+}

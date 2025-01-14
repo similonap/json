@@ -1,5 +1,5 @@
 {
-  "Dinomon": [
+  "dinomon": [
     {
       "id": 1,
       "name": "Raptorix",
@@ -81,7 +81,7 @@
       "region": 1
     }
   ],
-  "Region": [
+  "region": [
     {
       "id": 1,
       "name": "Glacius Plains",

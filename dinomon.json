@@ -1,0 +1,101 @@
+{
+  "Dinomon": [
+    {
+      "id": 1,
+      "name": "Raptorix",
+      "description": "A swift and agile Dinomon with a feathery crest.",
+      "type": "Ice",
+      "image": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-Xx4nQCH4aEQQjUPU1cKDmV6G/user-uUjKvGgwitIjKN6PARM2c3mG/img-XihLwYXllpJtjRdEOEwOQlbT.png?st=2025-01-14T17%3A03%3A25Z&se=2025-01-14T19%3A03%3A25Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-01-14T00%3A28%3A40Z&ske=2025-01-15T00%3A28%3A40Z&sks=b&skv=2024-08-04&sig=sL7SZ40MO/MYYrWKlpvic8NqwWi8c6uBV5wyAYGN%2BtM%3D",
+      "region": 1
+    },
+    {
+      "id": 2,
+      "name": "Terrasaur",
+      "description": "A sturdy Dinomon that harnesses the power of earth and rocks.",
+      "type": "Ground",
+      "image": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-Xx4nQCH4aEQQjUPU1cKDmV6G/user-uUjKvGgwitIjKN6PARM2c3mG/img-AiAGY2qKqCLVyOcVtag4Y0OO.png?st=2025-01-14T17%3A03%3A44Z&se=2025-01-14T19%3A03%3A44Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-01-14T07%3A12%3A26Z&ske=2025-01-15T07%3A12%3A26Z&sks=b&skv=2024-08-04&sig=2qe3pl5Z9iqVgWIaMMqPWnKI4KDRNEWDCaU8DXxfGms%3D",
+      "region": 2
+    },
+    {
+      "id": 3,
+      "name": "Blazewing",
+      "description": "Flames dance around this Dinomon, as it flies through the skies.",
+      "type": "Fire",
+      "image": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-Xx4nQCH4aEQQjUPU1cKDmV6G/user-uUjKvGgwitIjKN6PARM2c3mG/img-sttjtqGIcj09MXhx6uPVd3K7.png?st=2025-01-14T17%3A04%3A00Z&se=2025-01-14T19%3A04%3A00Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-01-13T18%3A54%3A25Z&ske=2025-01-14T18%3A54%3A25Z&sks=b&skv=2024-08-04&sig=LE3E35VBYw8K5n/FtvJtuiixh%2BDeNeuQlCTtEfK8CUg%3D",
+      "region": 3
+    },
+    {
+      "id": 4,
+      "name": "Aqualith",
+      "description": "A water-loving Dinomon that can dive deep into the ocean.",
+      "type": "Water",
+      "image": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-Xx4nQCH4aEQQjUPU1cKDmV6G/user-uUjKvGgwitIjKN6PARM2c3mG/img-gqFwUj59rpNxTOwnJPpmk44r.png?st=2025-01-14T17%3A04%3A22Z&se=2025-01-14T19%3A04%3A22Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-01-14T00%3A47%3A43Z&ske=2025-01-15T00%3A47%3A43Z&sks=b&skv=2024-08-04&sig=rQFCfpxWeYWFkfV7Jbw0qsVk0XXwtoC51Jt8r1/zbzY%3D",
+      "region": 1
+    },
+    {
+      "id": 5,
+      "name": "Vinetalon",
+      "description": "This Dinomon blends in with the forest and uses vines to attack.",
+      "type": "Grass",
+      "image": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-Xx4nQCH4aEQQjUPU1cKDmV6G/user-uUjKvGgwitIjKN6PARM2c3mG/img-N59efIuOJyFUEimyOOsG8GpS.png?st=2025-01-14T17%3A04%3A42Z&se=2025-01-14T19%3A04%3A42Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-01-14T08%3A51%3A08Z&ske=2025-01-15T08%3A51%3A08Z&sks=b&skv=2024-08-04&sig=HyElnrZjSje334lvLDofPKfcJo7EqpMNn916HPCpiRQ%3D",
+      "region": 2
+    },
+    {
+      "id": 6,
+      "name": "Electroraptor",
+      "description": "A Dinomon that generates electricity with its movements.",
+      "type": "Electric",
+      "image": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-Xx4nQCH4aEQQjUPU1cKDmV6G/user-uUjKvGgwitIjKN6PARM2c3mG/img-BVw9bkpZKVFbYaOmtgDRG45q.png?st=2025-01-14T17%3A05%3A00Z&se=2025-01-14T19%3A05%3A00Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-01-14T00%3A44%3A34Z&ske=2025-01-15T00%3A44%3A34Z&sks=b&skv=2024-08-04&sig=1PhPWeWNeDr6C2q4Z7YfN7u%2BBX4DoCUgRbR/bt7/Ywg%3D",
+      "region": 3
+    },
+    {
+      "id": 7,
+      "name": "Moltenos",
+      "description": "A fiery creature born from volcanic activity.",
+      "type": "Fire",
+      "image": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-Xx4nQCH4aEQQjUPU1cKDmV6G/user-uUjKvGgwitIjKN6PARM2c3mG/img-nqg4kjoHJafeS3zNjtjGCLHa.png?st=2025-01-14T17%3A05%3A21Z&se=2025-01-14T19%3A05%3A21Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-01-14T02%3A02%3A44Z&ske=2025-01-15T02%3A02%3A44Z&sks=b&skv=2024-08-04&sig=s06DfJlWMlAM5QJjuLX6%2BvpOwU9suB2A8654xbrh1hI%3D",
+      "region": 1
+    },
+    {
+      "id": 8,
+      "name": "Galeaptor",
+      "description": "This swift Dinomon can summon strong winds.",
+      "type": "Flying",
+      "image": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-Xx4nQCH4aEQQjUPU1cKDmV6G/user-uUjKvGgwitIjKN6PARM2c3mG/img-UMnKIWfZmZovk3L266xzuYbk.png?st=2025-01-14T17%3A05%3A43Z&se=2025-01-14T19%3A05%3A43Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-01-14T00%3A46%3A27Z&ske=2025-01-15T00%3A46%3A27Z&sks=b&skv=2024-08-04&sig=tazUOTHuc5LzwEcJzM4TLhhb9d7cpCazPtwYnkSahbM%3D",
+      "region": 2
+    },
+    {
+      "id": 9,
+      "name": "Mudstalker",
+      "description": "A sneaky and muddy Dinomon that ambushes its prey.",
+      "type": "Ground",
+      "image": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-Xx4nQCH4aEQQjUPU1cKDmV6G/user-uUjKvGgwitIjKN6PARM2c3mG/img-lk61YSj9vMcYbKOGEx5EBWJn.png?st=2025-01-14T17%3A06%3A03Z&se=2025-01-14T19%3A06%3A03Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-01-14T00%3A59%3A37Z&ske=2025-01-15T00%3A59%3A37Z&sks=b&skv=2024-08-04&sig=S%2BhnznTiUNc/fEfI2qb/3yTdfja4nMkIuej7sGGhaP8%3D",
+      "region": 3
+    },
+    {
+      "id": 10,
+      "name": "Crystaraptor",
+      "description": "A crystal-clad Dinomon that sparkles in the sunlight.",
+      "type": "Rock",
+      "image": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-Xx4nQCH4aEQQjUPU1cKDmV6G/user-uUjKvGgwitIjKN6PARM2c3mG/img-b4jMakHWEAcQrUZN56L1dNDG.png?st=2025-01-14T17%3A06%3A28Z&se=2025-01-14T19%3A06%3A28Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-01-14T00%3A35%3A54Z&ske=2025-01-15T00%3A35%3A54Z&sks=b&skv=2024-08-04&sig=2MZVasdekG5C/VAHUsH/QSPpB/ZAaD0Uz2IHrVARXGw%3D",
+      "region": 1
+    }
+  ],
+  "Region": [
+    {
+      "id": 1,
+      "name": "Glacius Plains",
+      "description": "A snowy region known for its icy plains and frosty Dinomon."
+    },
+    {
+      "id": 2,
+      "name": "Verdantia Forest",
+      "description": "A lush and green forest teeming with life and many Dinomon species."
+    },
+    {
+      "id": 3,
+      "name": "Ember Highlands",
+      "description": "A mountainous area filled with molten lava and fiery Dinomon."
+    }
+  ]
+}

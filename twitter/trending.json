@@ -1,0 +1,59 @@
+{
+  "trending": [
+    {
+      "category": "Tech",
+      "hashtag": "#Yvolution",
+      "posts": 120000
+    },
+    {
+      "category": "Tech",
+      "hashtag": "#MetaverseDomination",
+      "posts": 95000
+    },
+    {
+      "category": "Space",
+      "hashtag": "#TerraformGanymede",
+      "posts": 78000
+    },
+    {
+      "category": "Tech",
+      "hashtag": "#ThinkUniquely",
+      "posts": 62000
+    },
+    {
+      "category": "Tech",
+      "hashtag": "#Windows4Life",
+      "posts": 54000
+    },
+    {
+      "category": "Tech",
+      "hashtag": "#UltimateTechFight",
+      "posts": 67000
+    },
+    {
+      "category": "Space",
+      "hashtag": "#MartianMelee",
+      "posts": 71000
+    },
+    {
+      "category": "Entertainment",
+      "hashtag": "#BozmanGalacticFightNight",
+      "posts": 83000
+    },
+    {
+      "category": "Tech",
+      "hashtag": "#iFight",
+      "posts": 59000
+    },
+    {
+      "category": "Tech",
+      "hashtag": "#TechVsMuscle",
+      "posts": 64000
+    },
+    {
+      "category": "Tech",
+      "hashtag": "#ProductivityFirst",
+      "posts": 50000
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "videos": [
     {
+      "title": "Rammille - Feuerwerk",
+      "url": "https://www.youtube.com/watch?v=yyat6ITAiVk",
+      "description": "A german cover song of Camille's Vuurwerk",
+      "rating": 10.0
+    },
+    {
+      "title": "Zwangere PT - Vaaib Coden",
+      "url": "https://www.youtube.com/watch?v=7I3EGs3GcrA",
+      "description": "A cautionary song about vibe coding",
+      "rating": 9.9
+    },
+    {
       "title": "Don't click this video",
       "url": "https://www.youtube.com/watch?v=xvFZjo5PgG0",
       "description": "A hilarious rickroll classic. Don't you dare click!",
@@ -142,7 +154,7 @@
       "title": "MongoDB - Bring back the form",
       "url": "https://www.youtube.com/watch?v=KJPg3f6oTLk",
       "description": "A rap song about MongoDB and its many flaws.",
-      "rating": 8.9      
+      "rating": 8.9
     }
   ]
 }

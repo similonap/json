@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Royal Penguin",
+        "habitatType": "Rocky shorelines",
+        "temperatureTolerance": {
+            "min": -10,
+            "max": 15
+        },
+        "diet": [
+            "krill",
+            "fish",
+            "squid"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "King Penguin",
+        "habitatType": "Subantarctic islands",
+        "temperatureTolerance": {
+            "min": -15,
+            "max": 10
+        },
+        "diet": [
+            "fish",
+            "lanternfish",
+            "squid"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "African Penguin",
+        "habitatType": "Sandy and rocky beaches",
+        "temperatureTolerance": {
+            "min": 5,
+            "max": 30
+        },
+        "diet": [
+            "anchovies",
+            "sardines",
+            "squid"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Erect-crested Penguin",
+        "habitatType": "Cliffside colonies",
+        "temperatureTolerance": {
+            "min": -5,
+            "max": 20
+        },
+        "diet": [
+            "krill",
+            "small squid",
+            "fish"
+        ]
+    }
+]

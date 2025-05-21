@@ -1,0 +1,150 @@
+{
+  "penguin": [
+    {
+      "id": 1,
+      "nickname": "Pip",
+      "description": "A playful young penguin fond of swimming.",
+      "species": 1,
+      "island": "Macquarie Island",
+      "gender": "Female",
+      "weight": 12.5,
+      "height": 65,
+      "year": 2019,
+      "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/images/1747835243822-pe875j.jpg"
+    },
+    {
+      "id": 2,
+      "nickname": "Tux",
+      "description": "Keen diver known for hunting skills.",
+      "species": 2,
+      "island": "South Georgia",
+      "gender": "Male",
+      "weight": 28,
+      "height": 90,
+      "year": 2017,
+      "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/images/1747835243822-v8ak7d.jpg"
+    },
+    {
+      "id": 3,
+      "nickname": "Flipper",
+      "description": "Likes to bask on the icy shore.",
+      "species": 3,
+      "island": "Boulders Beach",
+      "gender": "Male",
+      "weight": 3,
+      "height": 45,
+      "year": 2021,
+      "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/images/1747835243822-cyh638.jpg"
+    },
+    {
+      "id": 4,
+      "nickname": "Waddle",
+      "description": "Leader of the rookery, very energetic.",
+      "species": 1,
+      "island": "Macquarie Island",
+      "gender": "Female",
+      "weight": 13.2,
+      "height": 66,
+      "year": 2018,
+      "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/images/1747835243822-swhm58.jpg"
+    },
+    {
+      "id": 5,
+      "nickname": "Pebble",
+      "description": "Collects colorful pebbles, gentle disposition.",
+      "species": 4,
+      "island": "Antipodes Island",
+      "gender": "Female",
+      "weight": 6.5,
+      "height": 50,
+      "year": 2020,
+      "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/images/1747835243822-fmyok.jpg"
+    },
+    {
+      "id": 6,
+      "nickname": "Frost",
+      "description": "Prefers colder climates, shy around others.",
+      "species": 2,
+      "island": "South Georgia",
+      "gender": "Male",
+      "weight": 25.7,
+      "height": 88,
+      "year": 2016,
+      "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/images/1747835243822-ysqdtp.jpg"
+    },
+    {
+      "id": 7,
+      "nickname": "Splash",
+      "description": "Loves water sports, always active.",
+      "species": 1,
+      "island": "Macquarie Island",
+      "gender": "Female",
+      "weight": 14,
+      "height": 67,
+      "year": 2022,
+      "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/images/1747835243822-wkfyeb.jpg"
+    },
+    {
+      "id": 8,
+      "nickname": "Chilly",
+      "description": "Enjoys sliding on ice with friends.",
+      "species": 2,
+      "island": "South Georgia",
+      "gender": "Female",
+      "weight": 29.4,
+      "height": 92,
+      "year": 2020,
+      "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/images/1747835243822-xs9g4.jpg"
+    },
+    {
+      "id": 9,
+      "nickname": "Spot",
+      "description": "Has a unique spot pattern on belly.",
+      "species": 3,
+      "island": "Boulders Beach",
+      "gender": "Male",
+      "weight": 3.1,
+      "height": 46,
+      "year": 2021,
+      "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/images/1747835243822-vk60nr.jpg"
+    },
+    {
+      "id": 10,
+      "nickname": "Shadow",
+      "description": "Often seen during dusk, very quiet.",
+      "species": 4,
+      "island": "Antipodes Island",
+      "gender": "Male",
+      "weight": 6.8,
+      "height": 51,
+      "year": 2019,
+      "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/images/1747835243822-4ezba.jpg"
+    }
+  ],
+  "species": [
+    {
+      "id": 1,
+      "name": "Royal Penguin",
+      "description": "A species notable for its distinctive yellow crest.",
+      "endangerment_status": "Near Threatened"
+    },
+    {
+      "id": 2,
+      "name": "King Penguin",
+      "description": "Second largest penguin, native to subantarctic islands.",
+      "endangerment_status": "Least Concern"
+    },
+    {
+      "id": 3,
+      "name": "African Penguin",
+      "description": "Distinctive for its pink eye patches, found on African coasts.",
+      "endangerment_status": "Endangered"
+    },
+    {
+      "id": 4,
+      "name": "Erect-crested Penguin",
+      "description": "One of the least known penguins, with erect yellow feathers over the eyes.",
+      "endangerment_status": "Endangered"
+    }
+  ]
+}

@@ -9,7 +9,8 @@
         "weight": 12.5,
         "height": 65,
         "year": 2019,
-        "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/images/1747835243822-pe875j.jpg"
+        "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/images/1747835243822-pe875j.jpg",
+        "assigned_to": "emilygreen"
     },
     {
         "id": 2,
@@ -21,7 +22,8 @@
         "weight": 28,
         "height": 90,
         "year": 2017,
-        "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/images/1747835243822-v8ak7d.jpg"
+        "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/images/1747835243822-v8ak7d.jpg",
+        "assigned_to": "jordanlee"
     },
     {
         "id": 3,
@@ -33,7 +35,8 @@
         "weight": 3,
         "height": 45,
         "year": 2021,
-        "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/images/1747835243822-cyh638.jpg"
+        "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/images/1747835243822-cyh638.jpg",
+        "assigned_to": null
     },
     {
         "id": 4,
@@ -45,7 +48,8 @@
         "weight": 13.2,
         "height": 66,
         "year": 2018,
-        "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/images/1747835243822-swhm58.jpg"
+        "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/images/1747835243822-swhm58.jpg",
+        "assigned_to": null
     },
     {
         "id": 5,
@@ -57,7 +61,8 @@
         "weight": 6.5,
         "height": 50,
         "year": 2020,
-        "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/images/1747835243822-fmyok.jpg"
+        "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/images/1747835243822-fmyok.jpg",
+        "assigned_to": "alexbio"
     },
     {
         "id": 6,
@@ -69,7 +74,8 @@
         "weight": 25.7,
         "height": 88,
         "year": 2016,
-        "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/images/1747835243822-ysqdtp.jpg"
+        "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/images/1747835243822-ysqdtp.jpg",
+        "assigned_to": null
     },
     {
         "id": 7,
@@ -81,7 +87,8 @@
         "weight": 14,
         "height": 67,
         "year": 2022,
-        "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/images/1747835243822-wkfyeb.jpg"
+        "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/images/1747835243822-wkfyeb.jpg",
+        "assigned_to": null
     },
     {
         "id": 8,
@@ -93,7 +100,8 @@
         "weight": 29.4,
         "height": 92,
         "year": 2020,
-        "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/images/1747835243822-xs9g4.jpg"
+        "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/images/1747835243822-xs9g4.jpg",
+        "assigned_to": null
     },
     {
         "id": 9,
@@ -105,7 +113,8 @@
         "weight": 3.1,
         "height": 46,
         "year": 2021,
-        "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/images/1747835243822-vk60nr.jpg"
+        "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/images/1747835243822-vk60nr.jpg",
+        "assigned_to": "carlossmith"
     },
     {
         "id": 10,
@@ -117,6 +126,7 @@
         "weight": 6.8,
         "height": 51,
         "year": 2019,
-        "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/images/1747835243822-4ezba.jpg"
+        "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/images/1747835243822-4ezba.jpg",
+        "assigned_to": null
     }
 ]

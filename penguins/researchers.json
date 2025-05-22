@@ -3,24 +3,24 @@
         "username": "alexbio",
         "fullname": "Alexandra Kim",
         "pincode": "7835",
-        "avatar": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/images/alexbio.png"
+        "avatar": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/images/alexbio.jpg"
     },
     {
         "username": "jordanlee",
         "fullname": "Jordan Lee",
         "pincode": "1560",
-        "avatar": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/images/jordanlee.png"
+        "avatar": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/images/jordanlee.jpg"
     },
     {
         "username": "carlossmith",
         "fullname": "Carlos Smith",
         "pincode": "4209",
-        "avatar": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/images/carlossmith.png"
+        "avatar": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/images/carlossmith.jpg"
     },
     {
         "username": "emilygreen",
         "fullname": "Emily Green",
         "pincode": "9217",
-        "avatar": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/images/emilygreen.png"
+        "avatar": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/penguins/images/emilygreen.jpg"
     }
 ]

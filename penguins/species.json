@@ -11,7 +11,8 @@
             "krill",
             "fish",
             "squid"
-        ]
+        ],
+        "endangermentStatus": "NT"
     },
     {
         "id": 2,
@@ -25,7 +26,8 @@
             "fish",
             "lanternfish",
             "squid"
-        ]
+        ],
+        "endangermentStatus": "LC"
     },
     {
         "id": 3,
@@ -39,7 +41,8 @@
             "anchovies",
             "sardines",
             "squid"
-        ]
+        ],
+        "endangermentStatus": "EN"
     },
     {
         "id": 4,
@@ -53,6 +56,7 @@
             "krill",
             "small squid",
             "fish"
-        ]
+        ],
+        "endangermentStatus": "EN"
     }
 ]

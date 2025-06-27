@@ -1,0 +1,134 @@
+{
+  "monkey": [
+    {
+      "id": 1,
+      "name": "Kiki",
+      "description": "A playful capuchin monkey who loves solving puzzles.",
+      "species_id": 2,
+      "country": "Brazil",
+      "gender": "Female",
+      "weight": 3.5,
+      "height": 38,
+      "year": 2019,
+      "assigned_to": "drwilson",
+      "personality_trait": "Curious",
+      "image": "images/1750767897264-6r60i.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Bongo",
+      "description": "Large, calm male gorilla always seeking attention.",
+      "species_id": 1,
+      "country": "Uganda",
+      "gender": "Male",
+      "weight": 150,
+      "height": 170,
+      "year": 2015,
+      "assigned_to": "drlee",
+      "personality_trait": "Gentle",
+      "image": "images/1750767897264-h8dnc.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Mimi",
+      "description": "Young vervet monkey with a mischievous streak.",
+      "species_id": 3,
+      "country": "Kenya",
+      "gender": "Female",
+      "weight": 5.2,
+      "height": 50,
+      "year": 2021,
+      "assigned_to": "drcho",
+      "personality_trait": "Playful",
+      "image": "images/1750767897264-nqh4wq.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Paco",
+      "description": "Capuchin with an impressive memory for sequences.",
+      "species_id": 2,
+      "country": "Peru",
+      "gender": "Male",
+      "weight": 4.1,
+      "height": 41,
+      "year": 2017,
+      "assigned_to": "drwilson",
+      "personality_trait": "Intelligent",
+      "image": "images/1750767897264-45hndp.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Lila",
+      "description": "An empathetic gorilla known for comforting other monkeys.",
+      "species_id": 1,
+      "country": "Rwanda",
+      "gender": "Female",
+      "weight": 130,
+      "height": 163,
+      "year": 2012,
+      "assigned_to": "drlee",
+      "personality_trait": "Caring",
+      "image": "images/1750767897264-nm96c.jpg"
+    }
+  ],
+  "species": [
+    {
+      "id": 1,
+      "name": "Gorilla",
+      "habitatType": "Forest",
+      "diet": [
+        "Leaves",
+        "Fruits",
+        "Bark"
+      ],
+      "endangermentStatus": "Endangered"
+    },
+    {
+      "id": 2,
+      "name": "Capuchin Monkey",
+      "habitatType": "Tropical Rainforest",
+      "diet": [
+        "Fruits",
+        "Seeds",
+        "Insects",
+        "Eggs"
+      ],
+      "endangermentStatus": "Least Concern"
+    },
+    {
+      "id": 3,
+      "name": "Vervet Monkey",
+      "habitatType": "Savannah",
+      "diet": [
+        "Fruits",
+        "Leaves",
+        "Seeds",
+        "Small animals"
+      ],
+      "endangermentStatus": "Least Concern"
+    }
+  ],
+  "researcher": [
+    {
+      "id": 1,
+      "username": "drwilson",
+      "fullname": "Dr. Alice Wilson",
+      "password": "wilson2024",
+      "avatar": "images/1750767897264-290eb.jpg"
+    },
+    {
+      "id": 2,
+      "username": "drlee",
+      "fullname": "Dr. Kelvin Lee",
+      "password": "leeSecure!",
+      "avatar": "images/1750767897264-kzjwcl9.jpg"
+    },
+    {
+      "id": 3,
+      "username": "drcho",
+      "fullname": "Dr. Sarah Cho",
+      "password": "choPass123",
+      "avatar": "images/1750767897264-afcgyn.jpg"
+    }
+  ]
+}

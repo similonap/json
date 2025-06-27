@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "username": "drwilson",
+        "fullname": "Dr. Alice Wilson",
+        "password": "wilson2024",
+        "avatar": "images/drwilson.png"
+    },
+    {
+        "id": 2,
+        "username": "drlee",
+        "fullname": "Dr. Kelvin Lee",
+        "password": "leeSecure!",
+        "avatar": "images/drlee.png"
+    },
+    {
+        "id": 3,
+        "username": "drcho",
+        "fullname": "Dr. Sarah Cho",
+        "password": "choPass123",
+        "avatar": "images/drcho.png"
+    }
+]

@@ -11,7 +11,7 @@
         "year": 2019,
         "likes": 0,
         "personality_trait": "Curious",
-        "image": "images/Kiki.png"
+        "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/monkeys/images/Kiki.png"
     },
     {
         "id": 2,
@@ -25,7 +25,7 @@
         "year": 2015,
         "likes": 0,
         "personality_trait": "Gentle",
-        "image": "images/Bongo.png"
+        "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/monkeys/images/Bongo.png"
     },
     {
         "id": 3,
@@ -39,7 +39,7 @@
         "year": 2021,
         "likes": 0,
         "personality_trait": "Playful",
-        "image": "images/Mimi.png"
+        "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/monkeys/images/Mimi.png"
     },
     {
         "id": 4,
@@ -53,7 +53,7 @@
         "year": 2017,
         "likes": 300,
         "personality_trait": "Intelligent",
-        "image": "images/Paco.png"
+        "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/monkeys/images/Paco.png"
     },
     {
         "id": 5,
@@ -67,7 +67,7 @@
         "year": 2012,
         "likes": 100,
         "personality_trait": "Caring",
-        "image": "images/Lila.png"
+        "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/monkeys/images/Lila.png"
     },
     {
         "id": 6,
@@ -81,7 +81,7 @@
         "year": 2018,
         "likes": 22,
         "personality_trait": "Vocal",
-        "image": "images/Zazu.png"
+        "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/monkeys/images/Zazu.png"
     },
     {
         "id": 7,
@@ -95,7 +95,7 @@
         "year": 2020,
         "likes": 58,
         "personality_trait": "Sneaky",
-        "image": "images/Tika.png"
+        "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/monkeys/images/Tika.png"
     },
     {
         "id": 8,
@@ -109,7 +109,7 @@
         "year": 2016,
         "likes": 145,
         "personality_trait": "Mimic",
-        "image": "images/Rolo.png"
+        "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/monkeys/images/Rolo.png"
     },
     {
         "id": 9,
@@ -123,7 +123,7 @@
         "year": 2013,
         "likes": 210,
         "personality_trait": "Leader",
-        "image": "images/Nala.png"
+        "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/monkeys/images/Nala.png"
     },
     {
         "id": 10,
@@ -137,6 +137,6 @@
         "year": 2022,
         "likes": 8,
         "personality_trait": "Adventurous",
-        "image": "images/Mojo.png"
+        "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/monkeys/images/Mojo.png"
     }
 ]

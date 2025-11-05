@@ -1,0 +1,371 @@
+[
+    {
+        "name": "deep navy",
+        "rgb": [
+            10,
+            24,
+            61
+        ],
+        "hex": "#0A183D"
+    },
+    {
+        "name": "ultraviolet",
+        "rgb": [
+            95,
+            53,
+            152
+        ],
+        "hex": "#5F3598"
+    },
+    {
+        "name": "ion blue",
+        "rgb": [
+            35,
+            145,
+            220
+        ],
+        "hex": "#2391DC"
+    },
+    {
+        "name": "jade froth",
+        "rgb": [
+            139,
+            188,
+            133
+        ],
+        "hex": "#8BBC85"
+    },
+    {
+        "name": "roasted rice",
+        "rgb": [
+            186,
+            150,
+            96
+        ],
+        "hex": "#BA9660"
+    },
+    {
+        "name": "porcelain white",
+        "rgb": [
+            244,
+            240,
+            236
+        ],
+        "hex": "#F4F0EC"
+    },
+    {
+        "name": "electric cyan",
+        "rgb": [
+            0,
+            198,
+            255
+        ],
+        "hex": "#00C6FF"
+    },
+    {
+        "name": "scanline magenta",
+        "rgb": [
+            214,
+            72,
+            159
+        ],
+        "hex": "#D6489F"
+    },
+    {
+        "name": "matte charcoal",
+        "rgb": [
+            54,
+            54,
+            60
+        ],
+        "hex": "#36363C"
+    },
+    {
+        "name": "ice mint",
+        "rgb": [
+            176,
+            228,
+            223
+        ],
+        "hex": "#B0E4DF"
+    },
+    {
+        "name": "polar pink",
+        "rgb": [
+            248,
+            182,
+            216
+        ],
+        "hex": "#F8B6D8"
+    },
+    {
+        "name": "solar flare gold",
+        "rgb": [
+            255,
+            188,
+            72
+        ],
+        "hex": "#FFBC48"
+    },
+    {
+        "name": "seafoam green",
+        "rgb": [
+            136,
+            208,
+            186
+        ],
+        "hex": "#88D0BA"
+    },
+    {
+        "name": "coral blush",
+        "rgb": [
+            242,
+            134,
+            123
+        ],
+        "hex": "#F2867B"
+    },
+    {
+        "name": "pearlescent white",
+        "rgb": [
+            245,
+            243,
+            255
+        ],
+        "hex": "#F5F3FF"
+    },
+    {
+        "name": "brass burnish",
+        "rgb": [
+            178,
+            134,
+            53
+        ],
+        "hex": "#B28635"
+    },
+    {
+        "name": "mahogany",
+        "rgb": [
+            94,
+            36,
+            23
+        ],
+        "hex": "#5E2417"
+    },
+    {
+        "name": "smoke grey",
+        "rgb": [
+            94,
+            104,
+            112
+        ],
+        "hex": "#5E6870"
+    },
+    {
+        "name": "dawn apricot",
+        "rgb": [
+            253,
+            197,
+            139
+        ],
+        "hex": "#FDC58B"
+    },
+    {
+        "name": "flare gold",
+        "rgb": [
+            255,
+            174,
+            47
+        ],
+        "hex": "#FFAE2F"
+    },
+    {
+        "name": "sky blush",
+        "rgb": [
+            198,
+            210,
+            255
+        ],
+        "hex": "#C6D2FF"
+    },
+    {
+        "name": "wet asphalt",
+        "rgb": [
+            45,
+            62,
+            80
+        ],
+        "hex": "#2D3E50"
+    },
+    {
+        "name": "neon cyan",
+        "rgb": [
+            0,
+            255,
+            206
+        ],
+        "hex": "#00FFCE"
+    },
+    {
+        "name": "magma ember",
+        "rgb": [
+            237,
+            95,
+            46
+        ],
+        "hex": "#ED5F2E"
+    },
+    {
+        "name": "obsidian",
+        "rgb": [
+            24,
+            24,
+            28
+        ],
+        "hex": "#18181C"
+    },
+    {
+        "name": "pyro orange",
+        "rgb": [
+            255,
+            140,
+            66
+        ],
+        "hex": "#FF8C42"
+    },
+    {
+        "name": "glacier blue",
+        "rgb": [
+            160,
+            210,
+            255
+        ],
+        "hex": "#A0D2FF"
+    },
+    {
+        "name": "aurora teal",
+        "rgb": [
+            56,
+            196,
+            202
+        ],
+        "hex": "#38C4CA"
+    },
+    {
+        "name": "frost silver",
+        "rgb": [
+            205,
+            219,
+            228
+        ],
+        "hex": "#CDDBE4"
+    },
+    {
+        "name": "parchment cream",
+        "rgb": [
+            236,
+            226,
+            207
+        ],
+        "hex": "#ECE2CF"
+    },
+    {
+        "name": "compass brass",
+        "rgb": [
+            193,
+            149,
+            52
+        ],
+        "hex": "#C19534"
+    },
+    {
+        "name": "midnight ink",
+        "rgb": [
+            20,
+            32,
+            61
+        ],
+        "hex": "#14203D"
+    },
+    {
+        "name": "lotus purple",
+        "rgb": [
+            155,
+            108,
+            211
+        ],
+        "hex": "#9B6CD3"
+    },
+    {
+        "name": "pond teal",
+        "rgb": [
+            64,
+            162,
+            148
+        ],
+        "hex": "#40A294"
+    },
+    {
+        "name": "moonlit mist",
+        "rgb": [
+            212,
+            214,
+            235
+        ],
+        "hex": "#D4D6EB"
+    },
+    {
+        "name": "confetti pink",
+        "rgb": [
+            255,
+            126,
+            182
+        ],
+        "hex": "#FF7EB6"
+    },
+    {
+        "name": "carnival lime",
+        "rgb": [
+            172,
+            232,
+            90
+        ],
+        "hex": "#ACE85A"
+    },
+    {
+        "name": "lantern gold",
+        "rgb": [
+            255,
+            196,
+            82
+        ],
+        "hex": "#FFC452"
+    },
+    {
+        "name": "glowcap violet",
+        "rgb": [
+            138,
+            107,
+            228
+        ],
+        "hex": "#8A6BE4"
+    },
+    {
+        "name": "woodland umber",
+        "rgb": [
+            90,
+            59,
+            28
+        ],
+        "hex": "#5A3B1C"
+    },
+    {
+        "name": "mosslight green",
+        "rgb": [
+            166,
+            216,
+            138
+        ],
+        "hex": "#A6D88A"
+    }
+]

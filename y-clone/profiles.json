@@ -4,41 +4,47 @@
     "name": "Leon Zusk",
     "bio": "Tech overlord. Bored of Earth, moving to Mars. Father of AI, King of Y, master of Martian Boxing. 🚀🥊",
     "avatarUrl": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/y-clone/avatars/LeonZusk.png",
-    "bannerUrl": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/y-clone/banners/LeonZusk.png"
+    "bannerUrl": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/y-clone/banners/LeonZusk.png",
+    "password": "mars2024"
   },
   {
     "username": "MetaverseZark",
     "name": "Zark Muckerborg",
     "bio": "CEO of FaceSphere. Obsessed with VR, AI, and total control. Training for the ultimate cyber fight. 🤖🥊",
     "avatarUrl": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/y-clone/avatars/MetaverseZark.png",
-    "bannerUrl": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/y-clone/banners/MetaverseZark.png"
+    "bannerUrl": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/y-clone/banners/MetaverseZark.png",
+    "password": "metaverse123"
   },
   {
     "username": "JoffBozman",
     "name": "Joff Bozman",
     "bio": "Founder of Bozman Galactic Fleet™. Terraforming Jupiter while selling Bozman Prime Subscriptions. 🚀💰",
     "avatarUrl": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/y-clone/avatars/JoffBozman.png",
-    "bannerUrl": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/y-clone/banners/JoffBozman.png"
+    "bannerUrl": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/y-clone/banners/JoffBozman.png",
+    "password": "prime123"
   },
   {
     "username": "TimCookson",
     "name": "Timothy Cookson",
     "bio": "Minimalist billionaire. Invented iVibes™️. Charging $1,999.99 for this bio. 🍐",
     "avatarUrl": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/y-clone/avatars/TimCookson.png",
-    "bannerUrl": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/y-clone/banners/TimCookson.png"
+    "bannerUrl": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/y-clone/banners/TimCookson.png",
+    "password": "ipear1999"
   },
   {
     "username": "GatesonSoft",
     "name": "Bilbo Gateson",
     "bio": "Inventor of GatesSoft Millennium Edition. Billionaire and PowerPoint enthusiast. 💾📊",
     "avatarUrl": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/y-clone/avatars/GatesonSoft.png",
-    "bannerUrl": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/y-clone/banners/GatesonSoft.png"
+    "bannerUrl": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/y-clone/banners/GatesonSoft.png",
+    "password": "windows95"
   },
   {
     "username": "JonDoe",
     "name": "Jon Doe",
     "bio": "Mysterious cyber anarchist. Founder of The People's Web, builder of HackNet OS, sworn enemy of corporate overlords. Lives in an undisclosed bunker, probably near Chernobyl. 🕶️💻",
     "avatarUrl": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/y-clone/avatars/JonDoe.png",
-    "bannerUrl": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/y-clone/banners/JonDoe.png"
+    "bannerUrl": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/y-clone/banners/JonDoe.png",
+    "password": "hacktheplanet"
   }
 ]

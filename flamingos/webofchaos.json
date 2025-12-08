@@ -1,0 +1,58 @@
+{
+  "mechanic_name": "The Web of Chaos",
+  "damage_multipliers": {
+    "strong": 2.0,
+    "weak": 0.5,
+    "neutral": 1.0
+  },
+  "type_interactions": [
+    {
+      "type": "Fire Flamingo",
+      "strong_against": ["Grass Flamingo", "Candy Flamingo"],
+      "weak_against": ["Water Flamingo", "Cosmic Flamingo"],
+      "logic": "Fire burns grass and melts candy, but is doused by water and outshined by stars."
+    },
+    {
+      "type": "Water Flamingo",
+      "strong_against": ["Fire Flamingo", "Candy Flamingo"],
+      "weak_against": ["Grass Flamingo", "Electric Flamingo"],
+      "logic": "Water extinguishes fire and dissolves sugar, but is absorbed by plants and conducts electricity."
+    },
+    {
+      "type": "Grass Flamingo",
+      "strong_against": ["Water Flamingo", "Cosmic Flamingo"],
+      "weak_against": ["Fire Flamingo", "Corporate Flamingo"],
+      "logic": "Plants drink water and ground the mind against cosmic dread, but burn easily and get paved over by corporations."
+    },
+    {
+      "type": "Electric Flamingo",
+      "strong_against": ["Water Flamingo", "Ghost Flamingo"],
+      "weak_against": ["Grass Flamingo", "Candy Flamingo"],
+      "logic": "Electricity shocks water and disrupts ghosts, but is insulated by wood and gummed up by sticky candy."
+    },
+    {
+      "type": "Candy Flamingo",
+      "strong_against": ["Electric Flamingo", "Cosmic Flamingo"],
+      "weak_against": ["Fire Flamingo", "Water Flamingo"],
+      "logic": "Sticky sugar ruins electronics and distracts aliens, but melts in heat and dissolves in water."
+    },
+    {
+      "type": "Ghost Flamingo",
+      "strong_against": ["Corporate Flamingo", "Fire Flamingo"],
+      "weak_against": ["Electric Flamingo", "Cosmic Flamingo"],
+      "logic": "Ghosts terrify office workers and phase through fire, but are trapped by energy fields and consumed by the void."
+    },
+    {
+      "type": "Corporate Flamingo",
+      "strong_against": ["Grass Flamingo", "Electric Flamingo"],
+      "weak_against": ["Ghost Flamingo", "Candy Flamingo"],
+      "logic": "Corporations destroy nature and cut power budgets, but are paralyzed by hauntings and unproductive sugar crashes."
+    },
+    {
+      "type": "Cosmic Flamingo",
+      "strong_against": ["Ghost Flamingo", "Fire Flamingo"],
+      "weak_against": ["Candy Flamingo", "Grass Flamingo"],
+      "logic": "The universe consumes spirits and dwarfs earthly fire, but is easily distracted by treats and grounded by nature."
+    }
+  ]
+}

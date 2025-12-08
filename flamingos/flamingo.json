@@ -2,7 +2,7 @@
   {
     "id": "FLAM-001",
     "name": "Inferno Strutter",
-    "type": "Fire Flamingo",
+    "type": "Fire",
     "rarity": "Common",
     "stats": { "hp": 90, "fp": 110, "neck_reach": 2 },
     "appearance": "It sports a natural, translucent obsidian visor over its eyes that looks exactly like a pair of cool 80s aviator sunglasses. It constantly poses sideways.",
@@ -13,7 +13,7 @@
   {
     "id": "FLAM-002",
     "name": "Ember-Beak Hatchling",
-    "type": "Fire Flamingo",
+    "type": "Fire",
     "rarity": "Common",
     "stats": { "hp": 60, "fp": 80, "neck_reach": 1 },
     "appearance": "A tiny chick wearing a discarded baked-bean tin can as a helmet. The can is red-hot and glowing.",
@@ -24,7 +24,7 @@
   {
     "id": "FLAM-003",
     "name": "Obsidian Juggernaut",
-    "type": "Fire Flamingo",
+    "type": "Fire",
     "rarity": "Rare",
     "stats": { "hp": 180, "fp": 95, "neck_reach": 2 },
     "appearance": "Covered in heavy black rock plates. It has a massive, spiky ball of hardened lava at the end of its tail, resembling a medieval flail.",
@@ -35,7 +35,7 @@
   {
     "id": "FLAM-004",
     "name": "Turbo-Vent Dancer",
-    "type": "Fire Flamingo",
+    "type": "Fire",
     "rarity": "Uncommon",
     "stats": { "hp": 100, "fp": 120, "neck_reach": 2 },
     "appearance": "Has two large, tubular exhaust pipes protruding from its shoulder blades that puff out rhythmic smoke rings in time with its dancing.",
@@ -46,7 +46,7 @@
   {
     "id": "FLAM-005",
     "name": "Mortar-Back Sniper",
-    "type": "Fire Flamingo",
+    "type": "Fire",
     "rarity": "Epic",
     "stats": { "hp": 70, "fp": 140, "neck_reach": 5 },
     "appearance": "It has a literal, fleshy cannon growing out of its spine. It has to kneel down on its front legs to aim the barrel.",
@@ -57,7 +57,7 @@
   {
     "id": "FLAM-006",
     "name": "Furnace-Belly Glutton",
-    "type": "Fire Flamingo",
+    "type": "Fire",
     "rarity": "Uncommon",
     "stats": { "hp": 130, "fp": 100, "neck_reach": 1 },
     "appearance": "Its stomach has a transparent window of hardened skin, revealing a raging fire burning inside. It holds a rusty shovel in its beak.",
@@ -68,7 +68,7 @@
   {
     "id": "FLAM-007",
     "name": "Solar-Crest Seraph",
-    "type": "Fire Flamingo",
+    "type": "Fire",
     "rarity": "Legendary",
     "stats": { "hp": 200, "fp": 150, "neck_reach": 3 },
     "appearance": "It has six wings made of pure fire and a glowing halo hovering above its head. It floats slightly off the ground.",
@@ -79,7 +79,7 @@
   {
     "id": "FLAM-008",
     "name": "Scuba-Steve",
-    "type": "Water Flamingo",
+    "type": "Water",
     "rarity": "Common",
     "stats": { "hp": 80, "fp": 70, "neck_reach": 2 },
     "appearance": "It wears a snorkel mask made of sea-glass and kelp, and has flippers on its feet that look suspiciously like plastic swimming gear.",
@@ -90,7 +90,7 @@
   {
     "id": "FLAM-009",
     "name": "Hydra-Siphon",
-    "type": "Water Flamingo",
+    "type": "Water",
     "rarity": "Epic",
     "stats": { "hp": 160, "fp": 60, "neck_reach": 4 },
     "appearance": "It has three separate heads on three long, writhing necks. The heads constantly argue and bite each other.",
@@ -101,7 +101,7 @@
   {
     "id": "FLAM-010",
     "name": "Reef-Shield Paladin",
-    "type": "Water Flamingo",
+    "type": "Water",
     "rarity": "Uncommon",
     "stats": { "hp": 140, "fp": 85, "neck_reach": 2 },
     "appearance": "It carries a massive, calcified Giant Clam shell on one wing like a riot shield, and wields a swordfish bill in the other wing.",
@@ -112,7 +112,7 @@
   {
     "id": "FLAM-011",
     "name": "Cryo-Skipper",
-    "type": "Water Flamingo",
+    "type": "Water",
     "rarity": "Rare",
     "stats": { "hp": 110, "fp": 100, "neck_reach": 3 },
     "appearance": "Its feet have evolved into long, flat blades resembling ice skates. It wears a scarf made of molted feathers.",
@@ -123,7 +123,7 @@
   {
     "id": "FLAM-012",
     "name": "Torpedo-Rider",
-    "type": "Water Flamingo",
+    "type": "Water",
     "rarity": "Uncommon",
     "stats": { "hp": 95, "fp": 110, "neck_reach": 2 },
     "appearance": "It has a large, spinning propeller growing out of its tail feathers. It looks like a living motorboat.",
@@ -134,7 +134,7 @@
   {
     "id": "FLAM-013",
     "name": "Bazooka-Blower",
-    "type": "Water Flamingo",
+    "type": "Water",
     "rarity": "Common",
     "stats": { "hp": 75, "fp": 60, "neck_reach": 3 },
     "appearance": "Its beak is absurdly wide and cylindrical, resembling a rocket launcher barrel. It chews pink bubblegum constantly.",
@@ -145,7 +145,7 @@
   {
     "id": "FLAM-014",
     "name": "Leviathan Lord",
-    "type": "Water Flamingo",
+    "type": "Water",
     "rarity": "Legendary",
     "stats": { "hp": 190, "fp": 130, "neck_reach": 3 },
     "appearance": "It is enormous and has tentacles instead of wings. A small ship anchor is tangled in its legs.",
@@ -156,7 +156,7 @@
   {
     "id": "FLAM-015",
     "name": "Sniper-Bush Mimic",
-    "type": "Grass Flamingo",
+    "type": "Grass",
     "rarity": "Rare",
     "stats": { "hp": 120, "fp": 80, "neck_reach": 1 },
     "appearance": "It wears a full military-style Ghillie suit made of living vines and leaves. You can only see its beak protruding.",
@@ -167,7 +167,7 @@
   {
     "id": "FLAM-016",
     "name": "Gnome-Rider Sentinel",
-    "type": "Grass Flamingo",
+    "type": "Grass",
     "rarity": "Common",
     "stats": { "hp": 200, "fp": 20, "neck_reach": 1 },
     "appearance": "A garden gnome is permanently fused to its back, wielding a tiny fishing rod. The gnome's eyes follow you.",
@@ -178,7 +178,7 @@
   {
     "id": "FLAM-017",
     "name": "Briar-Whip Dominator",
-    "type": "Grass Flamingo",
+    "type": "Grass",
     "rarity": "Uncommon",
     "stats": { "hp": 90, "fp": 130, "neck_reach": 2 },
     "appearance": "It wears a corset made of thorns and holds a long, thorny vine in its beak like a whip.",
@@ -189,7 +189,7 @@
   {
     "id": "FLAM-018",
     "name": "Siege-Tower Host",
-    "type": "Grass Flamingo",
+    "type": "Grass",
     "rarity": "Common",
     "stats": { "hp": 110, "fp": 70, "neck_reach": 1 },
     "appearance": "A functional wooden catapult has been built on its back by industrious squirrels. The squirrels operate it during battle.",
@@ -200,7 +200,7 @@
   {
     "id": "FLAM-019",
     "name": "Cactus-Spike Punk",
-    "type": "Grass Flamingo",
+    "type": "Grass",
     "rarity": "Rare",
     "stats": { "hp": 140, "fp": 110, "neck_reach": 2 },
     "appearance": "It has a bright green mohawk made of cactus spines and wears a leather jacket made of dried kelp.",
@@ -211,7 +211,7 @@
   {
     "id": "FLAM-020",
     "name": "Spider-Mingo",
-    "type": "Grass Flamingo",
+    "type": "Grass",
     "rarity": "Epic",
     "stats": { "hp": 150, "fp": 50, "neck_reach": 4 },
     "appearance": "It has eight legs. Six of them are useless and dangle from its chest, but it looks absolutely horrifying.",
@@ -222,7 +222,7 @@
   {
     "id": "FLAM-021",
     "name": "Two-Headed Trap-Mingo",
-    "type": "Grass Flamingo",
+    "type": "Grass",
     "rarity": "Legendary",
     "stats": { "hp": 160, "fp": 160, "neck_reach": 1 },
     "appearance": "One head is a flamingo, the other head is a giant Venus Flytrap. They look like they are on a date.",
@@ -233,7 +233,7 @@
   {
     "id": "FLAM-022",
     "name": "Cyber-Visor Dancer",
-    "type": "Electric Flamingo",
+    "type": "Electric",
     "rarity": "Rare",
     "stats": { "hp": 70, "fp": 150, "neck_reach": 3 },
     "appearance": "It wears a sleek, glowing LED visor over its eyes (Daft Punk style) and has neon tubes running along its legs.",
@@ -244,7 +244,7 @@
   {
     "id": "FLAM-023",
     "name": "Battery-Pack Mule",
-    "type": "Electric Flamingo",
+    "type": "Electric",
     "rarity": "Common",
     "stats": { "hp": 100, "fp": 50, "neck_reach": 1 },
     "appearance": "It carries a massive Duracell-style battery strapped to its back with duct tape. Wires clip onto its ear-holes.",
@@ -255,7 +255,7 @@
   {
     "id": "FLAM-024",
     "name": "Satellite-Dish Conduit",
-    "type": "Electric Flamingo",
+    "type": "Electric",
     "rarity": "Epic",
     "stats": { "hp": 110, "fp": 130, "neck_reach": 4 },
     "appearance": "Instead of a head, it has a rotating radar dish. The beak sticks out of the middle of the dish.",
@@ -266,7 +266,7 @@
   {
     "id": "FLAM-025",
     "name": "Rocket-Boot Chick",
-    "type": "Electric Flamingo",
+    "type": "Electric",
     "rarity": "Common",
     "stats": { "hp": 50, "fp": 90, "neck_reach": 2 },
     "appearance": "It has no feet, only jets of blue flame where its feet should be. It hovers inches off the ground.",
@@ -277,7 +277,7 @@
   {
     "id": "FLAM-026",
     "name": "Mech-Walker Wader",
-    "type": "Electric Flamingo",
+    "type": "Electric",
     "rarity": "Uncommon",
     "stats": { "hp": 130, "fp": 80, "neck_reach": 2 },
     "appearance": "Its legs have been replaced by hydraulic pistons. It makes a mechanical 'whir-clank' sound when it walks.",
@@ -288,7 +288,7 @@
   {
     "id": "FLAM-027",
     "name": "Storm-Caller Wizard",
-    "type": "Electric Flamingo",
+    "type": "Electric",
     "rarity": "Rare",
     "stats": { "hp": 90, "fp": 110, "neck_reach": 3 },
     "appearance": "It holds a twisted metal rod (lightning rod) in one claw like a wizard staff and wears a pointy hat made of sheet metal.",
@@ -299,7 +299,7 @@
   {
     "id": "FLAM-028",
     "name": "Brain-Jar Alpha",
-    "type": "Electric Flamingo",
+    "type": "Electric",
     "rarity": "Legendary",
     "stats": { "hp": 180, "fp": 140, "neck_reach": 5 },
     "appearance": "Its skull is a transparent glass dome containing a glowing, pulsing brain floating in green liquid.",
@@ -310,7 +310,7 @@
   {
     "id": "FLAM-029",
     "name": "Disco-Ball Mimic",
-    "type": "Grass Flamingo",
+    "type": "Grass",
     "rarity": "Epic",
     "stats": { "hp": 110, "fp": 100, "neck_reach": 3 },
     "appearance": "Covered in small, square mirrors. It spins slowly, reflecting light everywhere.",
@@ -321,7 +321,7 @@
   {
     "id": "FLAM-030",
     "name": "The Monopod King",
-    "type": "Fire Flamingo",
+    "type": "Fire",
     "rarity": "Legendary",
     "stats": { "hp": 250, "fp": 200, "neck_reach": 2 },
     "appearance": "It stands on one massive, muscular leg that wears a golden greave. It wears a crown that is slightly too big and slips over its eyes.",
@@ -332,7 +332,7 @@
   {
     "id": "FLAM-031",
     "name": "Cotton-Puff Strutter",
-    "type": "Candy Flamingo",
+    "type": "Candy",
     "rarity": "Common",
     "stats": { "hp": 40, "fp": 80, "neck_reach": 2 },
     "appearance": "It is literally just a ball of pink spun sugar on two paper sticks. It gets smaller when it rains.",
@@ -343,7 +343,7 @@
   {
     "id": "FLAM-032",
     "name": "Jawbreaker Golem",
-    "type": "Candy Flamingo",
+    "type": "Candy",
     "rarity": "Rare",
     "stats": { "hp": 200, "fp": 60, "neck_reach": 1 },
     "appearance": "A solid, spherical bird made of 500 layers of hard candy. It has no neck, just a head fused to the body.",
@@ -354,7 +354,7 @@
   {
     "id": "FLAM-033",
     "name": "Gummy-Worm Wader",
-    "type": "Candy Flamingo",
+    "type": "Candy",
     "rarity": "Uncommon",
     "stats": { "hp": 120, "fp": 70, "neck_reach": 4 },
     "appearance": "Translucent, neon green, and jiggly. Its neck is one long, stretchy sour worm coated in sugar dust.",
@@ -365,7 +365,7 @@
   {
     "id": "FLAM-034",
     "name": "Fondue Baron",
-    "type": "Candy Flamingo",
+    "type": "Candy",
     "rarity": "Epic",
     "stats": { "hp": 150, "fp": 90, "neck_reach": 2 },
     "appearance": "Constantly oozing molten chocolate from under its wings. It wears a monocle made of a marshmallow.",
@@ -376,7 +376,7 @@
   {
     "id": "FLAM-035",
     "name": "Cane-Leg Kicker",
-    "type": "Candy Flamingo",
+    "type": "Candy",
     "rarity": "Common",
     "stats": { "hp": 80, "fp": 110, "neck_reach": 2 },
     "appearance": "Its legs and neck are sharpened peppermint sticks. It smells aggressively of Christmas.",
@@ -387,7 +387,7 @@
   {
     "id": "FLAM-036",
     "name": "Snack-Dispenser Cyborg",
-    "type": "Candy Flamingo",
+    "type": "Candy",
     "rarity": "Epic",
     "stats": { "hp": 180, "fp": 100, "neck_reach": 1 },
     "appearance": "A rectangular vending machine with bird legs. It shoots soda cans out of the collection slot at high velocity.",
@@ -398,7 +398,7 @@
   {
     "id": "FLAM-037",
     "name": "Licorice Banshee",
-    "type": "Candy Flamingo",
+    "type": "Candy",
     "rarity": "Uncommon",
     "stats": { "hp": 100, "fp": 80, "neck_reach": 3 },
     "appearance": "Made of twisted black ropes of licorice. It looks like a tangled mess of cables.",
@@ -409,7 +409,7 @@
   {
     "id": "FLAM-038",
     "name": "Pop-Rock Popper",
-    "type": "Candy Flamingo",
+    "type": "Candy",
     "rarity": "Common",
     "stats": { "hp": 50, "fp": 140, "neck_reach": 2 },
     "appearance": "It vibrates constantly and makes a loud sizzling noise. Smoke rises from its feathers.",
@@ -420,7 +420,7 @@
   {
     "id": "FLAM-039",
     "name": "The Patisserie Archon",
-    "type": "Candy Flamingo",
+    "type": "Candy",
     "rarity": "Legendary",
     "stats": { "hp": 220, "fp": 150, "neck_reach": 3 },
     "appearance": "A three-tiered wedding cake with legs. It has lit candles for eyes and shoots frosting from a piping bag canon on its back.",
@@ -431,7 +431,7 @@
   {
     "id": "FLAM-040",
     "name": "Gingerbread Juggernaut",
-    "type": "Candy Flamingo",
+    "type": "Candy",
     "rarity": "Rare",
     "stats": { "hp": 160, "fp": 120, "neck_reach": 1 },
     "appearance": "A flat, 2D cookie bird with gumdrop buttons. One leg has already been bitten off.",
@@ -442,7 +442,7 @@
   {
     "id": "FLAM-041",
     "name": "Low-Budget Haunter",
-    "type": "Ghost Flamingo",
+    "type": "Ghost",
     "rarity": "Common",
     "stats": { "hp": 60, "fp": 60, "neck_reach": 2 },
     "appearance": "A regular flamingo wearing a white bedsheet with two crudely cut eyeholes. You can see its pink legs sticking out the bottom.",
@@ -453,7 +453,7 @@
   {
     "id": "FLAM-042",
     "name": "Ossified Oracle",
-    "type": "Ghost Flamingo",
+    "type": "Ghost",
     "rarity": "Rare",
     "stats": { "hp": 90, "fp": 100, "neck_reach": 2 },
     "appearance": "A complete skeleton held together by spectral blue energy. Its ribcage acts as a cage for a trapped soul (a smaller bird).",
@@ -464,7 +464,7 @@
   {
     "id": "FLAM-043",
     "name": "Chain-Gang Drifter",
-    "type": "Ghost Flamingo",
+    "type": "Ghost",
     "rarity": "Uncommon",
     "stats": { "hp": 130, "fp": 90, "neck_reach": 3 },
     "appearance": "Wrapped in heavy, rusty chains that float in the air. It drags a cartoonishly large iron ball attached to its ankle.",
@@ -475,7 +475,7 @@
   {
     "id": "FLAM-044",
     "name": "The Dullahan Dancer",
-    "type": "Ghost Flamingo",
+    "type": "Ghost",
     "rarity": "Epic",
     "stats": { "hp": 110, "fp": 130, "neck_reach": 0 },
     "appearance": "It has no head on its neck. It carries its severed head tucked under its wing like a football. The head is still squawking.",
@@ -486,7 +486,7 @@
   {
     "id": "FLAM-045",
     "name": "Graveyard Shift",
-    "type": "Ghost Flamingo",
+    "type": "Ghost",
     "rarity": "Common",
     "stats": { "hp": 150, "fp": 40, "neck_reach": 1 },
     "appearance": "It's literally just a granite tombstone with bird legs. The engraving reads 'HERE LIES FLAMINGO'.",
@@ -497,7 +497,7 @@
   {
     "id": "FLAM-046",
     "name": "Polter-Geist Peck",
-    "type": "Ghost Flamingo",
+    "type": "Ghost",
     "rarity": "Uncommon",
     "stats": { "hp": 70, "fp": 110, "neck_reach": 5 },
     "appearance": "Invisible except for a floating pair of aggressive sunglasses and a beak. Objects fly around it in a whirlwind.",
@@ -508,7 +508,7 @@
   {
     "id": "FLAM-047",
     "name": "Count Flami-cula",
-    "type": "Ghost Flamingo",
+    "type": "Ghost",
     "rarity": "Rare",
     "stats": { "hp": 100, "fp": 120, "neck_reach": 2 },
     "appearance": "Pale white skin, slicked-back feathers, and a high-collared cape. It holds a glass of 'tomato juice' (It's blood).",
@@ -519,7 +519,7 @@
   {
     "id": "FLAM-048",
     "name": "Ecto-Slime Sovereign",
-    "type": "Ghost Flamingo",
+    "type": "Ghost",
     "rarity": "Epic",
     "stats": { "hp": 140, "fp": 80, "neck_reach": 3 },
     "appearance": "Made entirely of glowing green goo. It holds a proton pack it stole from a ghost hunter.",
@@ -530,7 +530,7 @@
   {
     "id": "FLAM-049",
     "name": "The Possessed Lawn Ornament",
-    "type": "Ghost Flamingo",
+    "type": "Ghost",
     "rarity": "Common",
     "stats": { "hp": 80, "fp": 80, "neck_reach": 1 },
     "appearance": "A faded pink plastic flamingo with red glowing eyes and a crack in its skull. It holds a rusty knife.",
@@ -541,7 +541,7 @@
   {
     "id": "FLAM-050",
     "name": "The Pale Rider",
-    "type": "Ghost Flamingo",
+    "type": "Ghost",
     "rarity": "Legendary",
     "stats": { "hp": 100, "fp": 200, "neck_reach": 4 },
     "appearance": "A skeletal bird in a black hooded robe. It rides a tiny skeletal horse. It wields a scythe in its beak.",
@@ -552,7 +552,7 @@
   {
     "id": "FLAM-051",
     "name": "The Unpaid Intern",
-    "type": "Corporate Flamingo",
+    "type": "Corporate",
     "rarity": "Common",
     "stats": { "hp": 30, "fp": 10, "neck_reach": 1 },
     "appearance": "It looks exhausted and is holding four scorching hot coffees in its wings. It has dark circles under its eyes.",
@@ -563,7 +563,7 @@
   {
     "id": "FLAM-052",
     "name": "Middle-Manager Mingo",
-    "type": "Corporate Flamingo",
+    "type": "Corporate",
     "rarity": "Uncommon",
     "stats": { "hp": 110, "fp": 60, "neck_reach": 2 },
     "appearance": "Wears a cheap, ill-fitting grey suit and a tie that is too short. Its feathers are balding in a combover pattern.",
@@ -574,7 +574,7 @@
   {
     "id": "FLAM-053",
     "name": "IT Support Strutter",
-    "type": "Corporate Flamingo",
+    "type": "Corporate",
     "rarity": "Rare",
     "stats": { "hp": 90, "fp": 100, "neck_reach": 3 },
     "appearance": "Entangled in a massive ball of ethernet cables. It wears a headset and is actively eating a bag of chips.",
@@ -585,7 +585,7 @@
   {
     "id": "FLAM-054",
     "name": "HR Representative",
-    "type": "Corporate Flamingo",
+    "type": "Corporate",
     "rarity": "Epic",
     "stats": { "hp": 140, "fp": 80, "neck_reach": 2 },
     "appearance": "It has a forced, terrifyingly polite smile frozen on its beak. It holds a clipboard and a pen.",
@@ -596,7 +596,7 @@
   {
     "id": "FLAM-055",
     "name": "The Golden CEO",
-    "type": "Corporate Flamingo",
+    "type": "Corporate",
     "rarity": "Legendary",
     "stats": { "hp": 200, "fp": 200, "neck_reach": 4 },
     "appearance": "It is morbidly obese and covered in gold leaf. It smokes a cigar made of rolled-up $100 bills.",
@@ -607,7 +607,7 @@
   {
     "id": "FLAM-056",
     "name": "Void-Neck Watcher",
-    "type": "Cosmic Flamingo",
+    "type": "Cosmic",
     "rarity": "Common",
     "stats": { "hp": 80, "fp": 90, "neck_reach": 3 },
     "appearance": "Its body is normal, but its neck is a portal to deep space. You can see stars twinkling inside its throat.",
@@ -618,7 +618,7 @@
   {
     "id": "FLAM-057",
     "name": "Grey Alien Abductor",
-    "type": "Cosmic Flamingo",
+    "type": "Cosmic",
     "rarity": "Rare",
     "stats": { "hp": 70, "fp": 130, "neck_reach": 2 },
     "appearance": "It has huge black almond-shaped eyes and grey skin. It hovers inside a tiny flying saucer that barely fits its legs.",
@@ -629,7 +629,7 @@
   {
     "id": "FLAM-058",
     "name": "Meteorite Crasher",
-    "type": "Cosmic Flamingo",
+    "type": "Cosmic",
     "rarity": "Uncommon",
     "stats": { "hp": 150, "fp": 100, "neck_reach": 1 },
     "appearance": "It's just a rock with legs. It is burning up upon re-entry. It is screaming.",
@@ -640,7 +640,7 @@
   {
     "id": "FLAM-059",
     "name": "Nebula Drifter",
-    "type": "Cosmic Flamingo",
+    "type": "Cosmic",
     "rarity": "Epic",
     "stats": { "hp": 110, "fp": 140, "neck_reach": 4 },
     "appearance": "Made entirely of purple and blue gas clouds. Small planets orbit its head like flies.",
@@ -651,7 +651,7 @@
   {
     "id": "FLAM-060",
     "name": "Event Horizon Lord",
-    "type": "Cosmic Flamingo",
+    "type": "Cosmic",
     "rarity": "Legendary",
     "stats": { "hp": 250, "fp": 180, "neck_reach": 5 },
     "appearance": "A Vantablack silhouette. Light physically bends around it. Time slows down when you look at it.",

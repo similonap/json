@@ -21,7 +21,8 @@
     "loadout": [
       "Twin Rotary Pizza Cutters (Mono-filament edge)",
       "Mistletoe Grappling Hook"
-    ]
+    ],
+    "faction_id": "FAC-03-TRAD"
   },
   {
     "name": "Coal-Heart",
@@ -45,7 +46,8 @@
     "loadout": [
       "Liquid Methane Flamethrower",
       "Lump-of-Coal Cannon"
-    ]
+    ],
+    "faction_id": "FAC-01-COAL"
   },
   {
     "name": "Penny Spiral",
@@ -69,7 +71,8 @@
     "loadout": [
       "Candy-Cane Railgun",
       "Flashbangs (labeled \"Silent Night\")"
-    ]
+    ],
+    "faction_id": "FAC-02-NEON"
   },
   {
     "name": "Tinsel-Face",
@@ -93,7 +96,8 @@
     "loadout": [
       "Garrote Wire (Razor garland)",
       "Hidden Wrist-blades"
-    ]
+    ],
+    "faction_id": "FAC-04-CRYO"
   },
   {
     "name": "Sparky",
@@ -117,7 +121,8 @@
     "loadout": [
       "Data-Spike Injector",
       "Explosive Ornament Drones"
-    ]
+    ],
+    "faction_id": "FAC-02-NEON"
   },
   {
     "name": "Major Nut-Crack",
@@ -141,7 +146,8 @@
     "loadout": [
       "Hydraulic Jaw Clamp",
       "Walnut mace"
-    ]
+    ],
+    "faction_id": "FAC-03-TRAD"
   },
   {
     "name": "Frosty Unit 07",
@@ -165,7 +171,8 @@
     "loadout": [
       "Liquid Nitrogen Sprayer",
       "Ice-Shard Grenades"
-    ]
+    ],
+    "faction_id": "FAC-04-CRYO"
   },
   {
     "name": "The Wrapper",
@@ -189,7 +196,8 @@
     "loadout": [
       "Industrial Adhesive Tape Guns",
       "Carbon-fiber Ribbon Whips"
-    ]
+    ],
+    "faction_id": "FAC-02-NEON"
   },
   {
     "name": "Carol \"The Screecher\"",
@@ -213,7 +221,8 @@
     "loadout": [
       "Sonic Scream Emitter (Plays distorted carols)",
       "Bass-Drop Shockwave"
-    ]
+    ],
+    "faction_id": "FAC-03-TRAD"
   },
   {
     "name": "Chimney Sweep",
@@ -237,7 +246,8 @@
     "loadout": [
       "Choking Ash Canisters",
       "Extendable Flue Brush (Spiked)"
-    ]
+    ],
+    "faction_id": "FAC-01-COAL"
   },
   {
     "name": "Cookie Dough",
@@ -261,7 +271,8 @@
     "loadout": [
       "Molten Sugar Vomit",
       "Sticky Dough Trap"
-    ]
+    ],
+    "faction_id": "FAC-02-NEON"
   },
   {
     "name": "Rudolph X-1",
@@ -285,7 +296,8 @@
     "loadout": [
       "Nose Laser (High intensity blinding)",
       "Hoof-mounted Spikes"
-    ]
+    ],
+    "faction_id": "FAC-01-COAL"
   },
   {
     "name": "The Shelf-Watcher",
@@ -309,7 +321,8 @@
     "loadout": [
       "Target Marking Laser",
       "Psychological Horror Audio Emitter"
-    ]
+    ],
+    "faction_id": "FAC-03-TRAD"
   },
   {
     "name": "Bauble",
@@ -333,7 +346,8 @@
     "loadout": [
       "Glass Shrapnel Grenades",
       "Glitter Bomb (Blinding)"
-    ]
+    ],
+    "faction_id": "FAC-03-TRAD"
   },
   {
     "name": "Garland",
@@ -357,7 +371,8 @@
     "loadout": [
       "Chain Lightning Whip",
       "Overload Touch"
-    ]
+    ],
+    "faction_id": "FAC-02-NEON"
   },
   {
     "name": "Eggnog",
@@ -381,7 +396,8 @@
     "loadout": [
       "Fermented Acid Spray",
       "Nutmeg Choking Cloud"
-    ]
+    ],
+    "faction_id": "FAC-01-COAL"
   },
   {
     "name": "Star-Topper",
@@ -405,7 +421,8 @@
     "loadout": [
       "Orbital Laser Beam",
       "Holy Fire Projector"
-    ]
+    ],
+    "faction_id": "FAC-02-NEON"
   },
   {
     "name": "Toy-Maker",
@@ -429,7 +446,8 @@
     "loadout": [
       "Nail Gun Turret Deployment",
       "Sawblade launcher"
-    ]
+    ],
+    "faction_id": "FAC-01-COAL"
   },
   {
     "name": "The Fruitcake",
@@ -453,7 +471,8 @@
     "loadout": [
       "Physics-defying Density (Crush attack)",
       "Radiation Aura"
-    ]
+    ],
+    "faction_id": "FAC-03-TRAD"
   },
   {
     "name": "Krampus-Lite",
@@ -477,7 +496,8 @@
     "loadout": [
       "Birch Branch Switch (Electrified)",
       "Kidnapping Sack"
-    ]
+    ],
+    "faction_id": "FAC-03-TRAD"
   },
   {
     "name": "Ginger-Dread",
@@ -501,7 +521,8 @@
       "Gumdrop Landmines",
       "Hardened Icing Mortar"
     ],
-    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/ginger_dread.jpg"
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/ginger_dread.jpg",
+    "faction_id": "FAC-01-COAL"
   },
   {
     "name": "The Auditor",
@@ -525,7 +546,8 @@
       "Red Pen of Doom (Reality erasure)",
       "Guilt-Trip Psychic Blast"
     ],
-    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/the_auditor.jpg"
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/the_auditor.jpg",
+    "faction_id": "FAC-03-TRAD"
   },
   {
     "name": "Needles",
@@ -549,7 +571,8 @@
       "Pine-Needle Flechette Rifle",
       "Sap-Bomb Trap (Immobilizing)"
     ],
-    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/needles.jpg"
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/needles.jpg",
+    "faction_id": "FAC-03-TRAD"
   },
   {
     "name": "Wick",
@@ -573,7 +596,8 @@
       "Hot Wax Spray (Hardens on impact)",
       "Flare Burst"
     ],
-    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/wick.jpg"
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/wick.jpg",
+    "faction_id": "FAC-01-COAL"
   },
   {
     "name": "Globe-Head",
@@ -597,7 +621,8 @@
       "Sub-Zero Wind Cannon",
       "Glass Shard Shotgun"
     ],
-    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/globe_head.jpg"
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/globe_head.jpg",
+    "faction_id": "FAC-04-CRYO"
   },
   {
     "name": "Ribbon-Dancer",
@@ -621,7 +646,8 @@
       "Mono-molecular Ribbon Whips",
       "Scissor-Kick Blades"
     ],
-    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/ribbon_dancer.jpg"
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/ribbon_dancer.jpg",
+    "faction_id": "FAC-03-TRAD"
   },
   {
     "name": "Skid-Mark",
@@ -645,7 +671,8 @@
       "Sleigh-Runner Ramming Blade",
       "Oil Slick Dispenser"
     ],
-    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/skid_mark.jpg"
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/skid_mark.jpg",
+    "faction_id": "FAC-01-COAL"
   },
   {
     "name": "Little Drummer",
@@ -669,7 +696,8 @@
       "Concussive Bass Blast",
       "Hypnotic 'Pa-Rum-Pum-Pum' Beat"
     ],
-    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/little_drummer.jpg"
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/little_drummer.jpg",
+    "faction_id": "FAC-03-TRAD"
   },
   {
     "name": "The Stocking",
@@ -693,7 +721,8 @@
       "Vacuum Mouth",
       "Coal Dust Smokescreen"
     ],
-    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/the_stocking.jpg"
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/the_stocking.jpg",
+    "faction_id": "FAC-03-TRAD"
   },
   {
     "name": "Countdown",
@@ -717,6 +746,7 @@
       "Random Weapon Generator (1-24)",
       "Chocolate Grenade (Decoy)"
     ],
-    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/countdown.jpg"
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/countdown.jpg",
+    "faction_id": "FAC-02-NEON"
   }
 ]

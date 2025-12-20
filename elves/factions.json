@@ -1,0 +1,66 @@
+[
+    {
+        "faction_id": "FAC-01-COAL",
+        "name": "The Iron Coal Syndicate",
+        "leader": "Furnace-Master Grime",
+        "colors": [
+            "Soot Black",
+            "Burning Orange"
+        ],
+        "ideology": "Industrial Domination",
+        "insanity_manifestation": "They believe the 'Nice List' is a lie and that the world must be paved over to build a global factory.",
+        "visual_aesthetic": "Heavy diesel-punk machinery. Elves are bulky, leaking oil, and covered in welded scrap metal. They emit thick black smoke constantly.",
+        "combat_specialization": "Heavy Armor & Incendiary Weapons",
+        "base_of_operations": "Sector 7: The Smelting Pits",
+        "primary_rival": "The Glacial Vanguard",
+        "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/faction_iron_coal.jpg"
+    },
+    {
+        "faction_id": "FAC-02-NEON",
+        "name": "Cyber-Sleigh Systems (C.S.S.)",
+        "leader": "Overlord Prime_Gift.exe",
+        "colors": [
+            "Electric Blue",
+            "Plastic Pink"
+        ],
+        "ideology": "Aggressive Consumerism",
+        "insanity_manifestation": "They view organic life as 'unsold inventory' that must be packaged, tagged, and shipped. They speak in advertisement slogans.",
+        "visual_aesthetic": "High-tech, glossy plastic shells with RGB lighting. Exposed circuit boards and fiber-optic hair. They look like expensive toys that have glitched out.",
+        "combat_specialization": "Drone Swarms, Hacking & Lasers",
+        "base_of_operations": "Sector 1: The Distribution Hub",
+        "primary_rival": "The Order of the Gilded Bough",
+        "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/faction_cyber_sleigh.jpg"
+    },
+    {
+        "faction_id": "FAC-03-TRAD",
+        "name": "The Order of the Gilded Bough",
+        "leader": "High Priestess Holly-Thorn",
+        "colors": [
+            "Velvet Red",
+            "Antique Gold"
+        ],
+        "ideology": "The Old Ways (Punishment)",
+        "insanity_manifestation": "Religious zealots who worship Krampus. They believe 'Holiday Spirit' can only be achieved through fear and blood sacrifice.",
+        "visual_aesthetic": "Gothic horror. They wear tattered velvet robes over rusted endoskeletons. Adorned with bone charms, antlers, and crowns of sharp holly.",
+        "combat_specialization": "Melee (Bladed Weapons) & Psychological Horror",
+        "base_of_operations": "Sector 9: The Ancient Workshop",
+        "primary_rival": "Cyber-Sleigh Systems",
+        "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/faction_gilded_bough.jpg"
+    },
+    {
+        "faction_id": "FAC-04-CRYO",
+        "name": "The Glacial Vanguard",
+        "leader": "General Absolute Zero",
+        "colors": [
+            "Stark White",
+            "Ice Blue"
+        ],
+        "ideology": "Eternal Winter",
+        "insanity_manifestation": "They believe that heat is a corruption. They want to freeze the entire planet to preserve it in a perfect, silent snow globe forever.",
+        "visual_aesthetic": "Sleek, ceramic white plating that mimics ice. Their eyes are cold blue LEDs. They move silently and are often covered in frost.",
+        "combat_specialization": "Cryogenics (Freezing) & Stealth",
+        "base_of_operations": "Sector 4: The Permafrost Wastes",
+        "primary_rival": "The Iron Coal Syndicate",
+        "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/faction_glacial_vanguard.jpg"
+    }
+]

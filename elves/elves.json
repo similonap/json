@@ -1,0 +1,722 @@
+[
+  {
+    "name": "Jingles \"The Butcher\"",
+    "serial_number": "ELF-MK1-001",
+    "role": "Close Quarters Berserker",
+    "insanity_diagnosis": "Obsessive Compulsive Vivisectionist",
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/jingles_the_butcher.jpg",
+    "stats": {
+      "strength": 70,
+      "speed": 95,
+      "armor": 35,
+      "holiday_cheer": 0,
+      "hatred_of_easter": 100
+    },
+    "appearance": {
+      "chassis_build": "Compact, 3ft tall, skeletal frame.",
+      "visuals": "Patchwork felt suit stained with oil. Bells replaced with teeth.",
+      "face": "Electronic jaw removed; throat speakers emit constant jingling.",
+      "distinguishing_mark": "Left eye is a laser sight from a turkey fryer."
+    },
+    "loadout": [
+      "Twin Rotary Pizza Cutters (Mono-filament edge)",
+      "Mistletoe Grappling Hook"
+    ]
+  },
+  {
+    "name": "Coal-Heart",
+    "serial_number": "ELF-HVY-666",
+    "role": "Heavy Demolitions",
+    "insanity_diagnosis": "Pyromaniacal Moral Absolutism",
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/coal_heart.jpg",
+    "stats": {
+      "strength": 99,
+      "speed": 15,
+      "armor": 90,
+      "holiday_cheer": -50,
+      "hatred_of_thanksgiving": 100
+    },
+    "appearance": {
+      "chassis_build": "Walking cast-iron furnace.",
+      "visuals": "Scorched black iron leaking soot.",
+      "face": "A glowing orange furnace door.",
+      "distinguishing_mark": "\"NAUGHTY\" stenciled on chest."
+    },
+    "loadout": [
+      "Liquid Methane Flamethrower",
+      "Lump-of-Coal Cannon"
+    ]
+  },
+  {
+    "name": "Penny Spiral",
+    "serial_number": "ELF-SNP-012",
+    "role": "Sniper",
+    "insanity_diagnosis": "Hallucinogenic Paranoia",
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/penny_spiral.jpg",
+    "stats": {
+      "strength": 40,
+      "speed": 60,
+      "armor": 45,
+      "holiday_cheer": 12,
+      "hatred_of_halloween": 95
+    },
+    "appearance": {
+      "chassis_build": "Elongated telescopic limbs.",
+      "visuals": "Hypnotic red/white spiral paint.",
+      "face": "Single rotating high-power lens.",
+      "distinguishing_mark": "Right arm fused to rifle stock."
+    },
+    "loadout": [
+      "Candy-Cane Railgun",
+      "Flashbangs (labeled \"Silent Night\")"
+    ]
+  },
+  {
+    "name": "Tinsel-Face",
+    "serial_number": "ELF-SPY-X09",
+    "role": "Assassin",
+    "insanity_diagnosis": "Identity Dissociation / Mime",
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/tinsel_face.jpg",
+    "stats": {
+      "strength": 55,
+      "speed": 88,
+      "armor": 30,
+      "holiday_cheer": 5,
+      "hatred_of_valentines_day": 100
+    },
+    "appearance": {
+      "chassis_build": "Flexible alloy frame.",
+      "visuals": "Covered in silver metallic streamers (active camo).",
+      "face": "Smooth silver mirror mask.",
+      "distinguishing_mark": "Moves with zero sound."
+    },
+    "loadout": [
+      "Garrote Wire (Razor garland)",
+      "Hidden Wrist-blades"
+    ]
+  },
+  {
+    "name": "Sparky",
+    "serial_number": "ELF-HACK-404",
+    "role": "Electronic Warfare",
+    "insanity_diagnosis": "Manic Hyperactivity",
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/sparky.jpg",
+    "stats": {
+      "strength": 20,
+      "speed": 100,
+      "armor": 25,
+      "holiday_cheer": 100,
+      "hatred_of_new_years": 80
+    },
+    "appearance": {
+      "chassis_build": "Small frame with exposed wiring.",
+      "visuals": "Vibrating constantly. Wears a burnt apron.",
+      "face": "Nixie tubes displaying countdowns.",
+      "distinguishing_mark": "Leaking battery acid."
+    },
+    "loadout": [
+      "Data-Spike Injector",
+      "Explosive Ornament Drones"
+    ]
+  },
+  {
+    "name": "Major Nut-Crack",
+    "serial_number": "ELF-GRD-88",
+    "role": "Tank / Crusher",
+    "insanity_diagnosis": "Rigid Bone-Breaking Protocol",
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/major_nut_crack.jpg",
+    "stats": {
+      "strength": 95,
+      "speed": 30,
+      "armor": 85,
+      "holiday_cheer": 10,
+      "hatred_of_groundhog_day": 60
+    },
+    "appearance": {
+      "chassis_build": "7ft wooden texture polymer.",
+      "visuals": "Traditional soldier uniform painted on armor.",
+      "face": "Oversized mouth with hydraulic press jaws.",
+      "distinguishing_mark": "Splinters shoot out when hit."
+    },
+    "loadout": [
+      "Hydraulic Jaw Clamp",
+      "Walnut mace"
+    ]
+  },
+  {
+    "name": "Frosty Unit 07",
+    "serial_number": "ELF-CRYO-007",
+    "role": "Cryogenics",
+    "insanity_diagnosis": "Cold-Blooded Sadism",
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/frosty_unit_07.jpg",
+    "stats": {
+      "strength": 60,
+      "speed": 40,
+      "armor": 70,
+      "holiday_cheer": 0,
+      "hatred_of_summer_solstice": 100
+    },
+    "appearance": {
+      "chassis_build": "Spherical torso segments.",
+      "visuals": "White ceramic plating, looks like snow.",
+      "face": "Two coal sensors and a carrot sensor spike.",
+      "distinguishing_mark": "Top hat acts as heat vent."
+    },
+    "loadout": [
+      "Liquid Nitrogen Sprayer",
+      "Ice-Shard Grenades"
+    ]
+  },
+  {
+    "name": "The Wrapper",
+    "serial_number": "ELF-BIND-22",
+    "role": "Crowd Control",
+    "insanity_diagnosis": "Pathological Hoarding",
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/the_wrapper.jpg",
+    "stats": {
+      "strength": 50,
+      "speed": 80,
+      "armor": 40,
+      "holiday_cheer": 75,
+      "hatred_of_birthdays": 90
+    },
+    "appearance": {
+      "chassis_build": "Spindly, multi-armed spider bot.",
+      "visuals": "Dispensers on all 4 arms.",
+      "face": "Barcode scanner eye.",
+      "distinguishing_mark": "Sticky residue covers chassis."
+    },
+    "loadout": [
+      "Industrial Adhesive Tape Guns",
+      "Carbon-fiber Ribbon Whips"
+    ]
+  },
+  {
+    "name": "Carol \"The Screecher\"",
+    "serial_number": "ELF-AUD-100",
+    "role": "Sonic Warfare",
+    "insanity_diagnosis": "Uncontrollable Volume Modulation",
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/carol_the_screecher.jpg",
+    "stats": {
+      "strength": 30,
+      "speed": 60,
+      "armor": 50,
+      "holiday_cheer": 100,
+      "hatred_of_silent_nights": 100
+    },
+    "appearance": {
+      "chassis_build": "Chest is a massive subwoofer.",
+      "visuals": "Gilded gold plating.",
+      "face": "Mouth is a megaphone permanently welded open.",
+      "distinguishing_mark": "Vibrates nearby glass until it shatters."
+    },
+    "loadout": [
+      "Sonic Scream Emitter (Plays distorted carols)",
+      "Bass-Drop Shockwave"
+    ]
+  },
+  {
+    "name": "Chimney Sweep",
+    "serial_number": "ELF-SOOT-99",
+    "role": "Infiltrator",
+    "insanity_diagnosis": "Claustrophilia",
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/chimney_sweep.jpg",
+    "stats": {
+      "strength": 55,
+      "speed": 75,
+      "armor": 45,
+      "holiday_cheer": 15,
+      "hatred_of_cleanliness": 80
+    },
+    "appearance": {
+      "chassis_build": "Covered in vantablack fuzz.",
+      "visuals": "Leaving trails of toxic dust.",
+      "face": "Respirator mask with green glow eyes.",
+      "distinguishing_mark": "Can collapse skeleton to fit in 6-inch pipes."
+    },
+    "loadout": [
+      "Choking Ash Canisters",
+      "Extendable Flue Brush (Spiked)"
+    ]
+  },
+  {
+    "name": "Cookie Dough",
+    "serial_number": "ELF-BIO-350",
+    "role": "Chemical / Bio",
+    "insanity_diagnosis": "Gluttonous Rage",
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/cookie_dough.jpg",
+    "stats": {
+      "strength": 80,
+      "speed": 20,
+      "armor": 20,
+      "holiday_cheer": 88,
+      "hatred_of_diets": 100
+    },
+    "appearance": {
+      "chassis_build": "Blob-like amorphous shape.",
+      "visuals": "Made of synthetic nano-dough.",
+      "face": "Three gumdrop eyes sinking into the face.",
+      "distinguishing_mark": "Smells delicious but is highly corrosive."
+    },
+    "loadout": [
+      "Molten Sugar Vomit",
+      "Sticky Dough Trap"
+    ]
+  },
+  {
+    "name": "Rudolph X-1",
+    "serial_number": "ELF-BEAST-01",
+    "role": "Recon / Light Assault",
+    "insanity_diagnosis": "Navigation Error: Aggressive",
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/rudolph_x1.jpg",
+    "stats": {
+      "strength": 65,
+      "speed": 98,
+      "armor": 50,
+      "holiday_cheer": 40,
+      "hatred_of_fog": 100
+    },
+    "appearance": {
+      "chassis_build": "Quadrupedal robotic deer frame.",
+      "visuals": "Rusted brown metal.",
+      "face": "Nose is a blinding red strobe light.",
+      "distinguishing_mark": "Antlers are sharpened rebar."
+    },
+    "loadout": [
+      "Nose Laser (High intensity blinding)",
+      "Hoof-mounted Spikes"
+    ]
+  },
+  {
+    "name": "The Shelf-Watcher",
+    "serial_number": "ELF-INTEL-00",
+    "role": "Surveillance",
+    "insanity_diagnosis": "Voyeuristic Malevolence",
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/the_shelf_watcher.jpg",
+    "stats": {
+      "strength": 10,
+      "speed": 100,
+      "armor": 10,
+      "holiday_cheer": 0,
+      "hatred_of_privacy": 100
+    },
+    "appearance": {
+      "chassis_build": "Looks exactly like a plush toy.",
+      "visuals": "Fabric skin over metal endoskeleton.",
+      "face": "Painted smile, eyes track movement.",
+      "distinguishing_mark": "Teleports when not observed."
+    },
+    "loadout": [
+      "Target Marking Laser",
+      "Psychological Horror Audio Emitter"
+    ]
+  },
+  {
+    "name": "Bauble",
+    "serial_number": "ELF-EXP-55",
+    "role": "Grenadier",
+    "insanity_diagnosis": "Fragile Ego / Explosive Temper",
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/bauble.jpg",
+    "stats": {
+      "strength": 40,
+      "speed": 50,
+      "armor": 5,
+      "holiday_cheer": 60,
+      "hatred_of_gravity": 100
+    },
+    "appearance": {
+      "chassis_build": "Round, glass-like composite armor.",
+      "visuals": "Highly reflective red chrome.",
+      "face": "Reflected in its own surface.",
+      "distinguishing_mark": "Explodes violently upon death."
+    },
+    "loadout": [
+      "Glass Shrapnel Grenades",
+      "Glitter Bomb (Blinding)"
+    ]
+  },
+  {
+    "name": "Garland",
+    "serial_number": "ELF-ELEC-44",
+    "role": "Battle Mage (Electric)",
+    "insanity_diagnosis": "Short-Circuiting Joy",
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/garland.jpg",
+    "stats": {
+      "strength": 45,
+      "speed": 65,
+      "armor": 40,
+      "holiday_cheer": 85,
+      "hatred_of_darkness": 100
+    },
+    "appearance": {
+      "chassis_build": "Wire-frame skeleton.",
+      "visuals": "Wrapped in green fuzzy wires and C9 bulbs.",
+      "face": "Arc of electricity between two nodes.",
+      "distinguishing_mark": "Humming sound of high voltage."
+    },
+    "loadout": [
+      "Chain Lightning Whip",
+      "Overload Touch"
+    ]
+  },
+  {
+    "name": "Eggnog",
+    "serial_number": "ELF-CHEM-12",
+    "role": "Bio-Hazard Support",
+    "insanity_diagnosis": "Intoxicated Logic",
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/eggnog.jpg",
+    "stats": {
+      "strength": 80,
+      "speed": 10,
+      "armor": 60,
+      "holiday_cheer": 100,
+      "hatred_of_sobriety": 100
+    },
+    "appearance": {
+      "chassis_build": "Walking barrel/vat.",
+      "visuals": "Yellowish fluid leaking from joints.",
+      "face": "Spigot mouth.",
+      "distinguishing_mark": "Sloshing sound when walking."
+    },
+    "loadout": [
+      "Fermented Acid Spray",
+      "Nutmeg Choking Cloud"
+    ]
+  },
+  {
+    "name": "Star-Topper",
+    "serial_number": "ELF-AIR-01",
+    "role": "Aerial Drone",
+    "insanity_diagnosis": "God Complex",
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/star_topper.jpg",
+    "stats": {
+      "strength": 30,
+      "speed": 95,
+      "armor": 20,
+      "holiday_cheer": 90,
+      "hatred_of_the_ground": 100
+    },
+    "appearance": {
+      "chassis_build": "Five-pointed geometric star frame.",
+      "visuals": "Glowing white hot.",
+      "face": "None, just light.",
+      "distinguishing_mark": "Hovers 10 feet above the squad."
+    },
+    "loadout": [
+      "Orbital Laser Beam",
+      "Holy Fire Projector"
+    ]
+  },
+  {
+    "name": "Toy-Maker",
+    "serial_number": "ELF-ENG-05",
+    "role": "Combat Engineer",
+    "insanity_diagnosis": "Perfectionist disassembly",
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/toy_maker.jpg",
+    "stats": {
+      "strength": 60,
+      "speed": 50,
+      "armor": 55,
+      "holiday_cheer": 20,
+      "hatred_of_broken_things": 80
+    },
+    "appearance": {
+      "chassis_build": "Utility apron with multi-tool arms.",
+      "visuals": "Covered in sawdust and oil.",
+      "face": "Welding mask welded to skull.",
+      "distinguishing_mark": "Carries a massive wrench."
+    },
+    "loadout": [
+      "Nail Gun Turret Deployment",
+      "Sawblade launcher"
+    ]
+  },
+  {
+    "name": "The Fruitcake",
+    "serial_number": "ELF-WALL-00",
+    "role": "Mobile Shield",
+    "insanity_diagnosis": "Dense Nihilism",
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/the_fruitcake.jpg",
+    "stats": {
+      "strength": 100,
+      "speed": 5,
+      "armor": 100,
+      "holiday_cheer": -100,
+      "hatred_of_being_eaten": 100
+    },
+    "appearance": {
+      "chassis_build": "Solid, rectangular brick.",
+      "visuals": "Brown, studded with petrified colorful bits.",
+      "face": "None.",
+      "distinguishing_mark": "Indestructible and extremely heavy."
+    },
+    "loadout": [
+      "Physics-defying Density (Crush attack)",
+      "Radiation Aura"
+    ]
+  },
+  {
+    "name": "Krampus-Lite",
+    "serial_number": "ELF-CMD-66",
+    "role": "Squad Leader",
+    "insanity_diagnosis": "Punishment Fetish",
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/krampus_lite.jpg",
+    "stats": {
+      "strength": 85,
+      "speed": 70,
+      "armor": 75,
+      "holiday_cheer": 0,
+      "hatred_of_children": 100
+    },
+    "appearance": {
+      "chassis_build": "Taller, horned frame.",
+      "visuals": "Fur-covered metal, goat legs.",
+      "face": "Long tongue made of red tape.",
+      "distinguishing_mark": "Carries a basket of rusty cages."
+    },
+    "loadout": [
+      "Birch Branch Switch (Electrified)",
+      "Kidnapping Sack"
+    ]
+  },
+  {
+    "name": "Ginger-Dread",
+    "serial_number": "ELF-HVY-202",
+    "role": "Siege Breaker",
+    "insanity_diagnosis": "Cannibalistic Projection",
+    "stats": {
+      "strength": 90,
+      "speed": 25,
+      "armor": 60,
+      "holiday_cheer": 50,
+      "hatred_of_ovens": 100
+    },
+    "appearance": {
+      "chassis_build": "Thick slabs of reinforced concrete painted like cookie dough.",
+      "visuals": "White icing acts as industrial cement welding joints together.",
+      "face": "Three gumdrops arranged in a screaming expression.",
+      "distinguishing_mark": "Missing one leg (replaced with a candy cane peg)."
+    },
+    "loadout": [
+      "Gumdrop Landmines",
+      "Hardened Icing Mortar"
+    ],
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/ginger_dread.jpg"
+  },
+  {
+    "name": "The Auditor",
+    "serial_number": "ELF-ADMIN-01",
+    "role": "Psychological Ops",
+    "insanity_diagnosis": "Bureaucratic Sadism",
+    "stats": {
+      "strength": 15,
+      "speed": 40,
+      "armor": 20,
+      "holiday_cheer": -200,
+      "hatred_of_loopholes": 100
+    },
+    "appearance": {
+      "chassis_build": "Tall, skeletal, hunchbacked.",
+      "visuals": "Wears spectacles made of cracked glass. Holding an endless scroll.",
+      "face": "Digital screen scrolling names in red text.",
+      "distinguishing_mark": "Surrounded by floating holographic paper."
+    },
+    "loadout": [
+      "Red Pen of Doom (Reality erasure)",
+      "Guilt-Trip Psychic Blast"
+    ],
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/the_auditor.jpg"
+  },
+  {
+    "name": "Needles",
+    "serial_number": "ELF-RNG-77",
+    "role": "Jungle/Forest Warfare",
+    "insanity_diagnosis": "Prickly Defensive Disorder",
+    "stats": {
+      "strength": 50,
+      "speed": 70,
+      "armor": 55,
+      "holiday_cheer": 30,
+      "hatred_of_lumberjacks": 100
+    },
+    "appearance": {
+      "chassis_build": "Covered in synthetic pine needles (Ghillie suit).",
+      "visuals": "Dripping sticky sap.",
+      "face": "Hidden behind pinecone armor.",
+      "distinguishing_mark": "Smells like intense car freshener."
+    },
+    "loadout": [
+      "Pine-Needle Flechette Rifle",
+      "Sap-Bomb Trap (Immobilizing)"
+    ],
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/needles.jpg"
+  },
+  {
+    "name": "Wick",
+    "serial_number": "ELF-FIRE-03",
+    "role": "Area Denial",
+    "insanity_diagnosis": "Burnout Syndrome",
+    "stats": {
+      "strength": 65,
+      "speed": 35,
+      "armor": 40,
+      "holiday_cheer": 80,
+      "hatred_of_wind": 100
+    },
+    "appearance": {
+      "chassis_build": "Melting wax sculpture.",
+      "visuals": "Constantly dripping hot red wax.",
+      "face": "A burning flame that flickers.",
+      "distinguishing_mark": "Leave a trail of slippery wax."
+    },
+    "loadout": [
+      "Hot Wax Spray (Hardens on impact)",
+      "Flare Burst"
+    ],
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/wick.jpg"
+  },
+  {
+    "name": "Globe-Head",
+    "serial_number": "ELF-ENV-09",
+    "role": "Weather Control",
+    "insanity_diagnosis": "Atmospheric Dissociation",
+    "stats": {
+      "strength": 45,
+      "speed": 50,
+      "armor": 80,
+      "holiday_cheer": 100,
+      "hatred_of_tropical_climates": 100
+    },
+    "appearance": {
+      "chassis_build": "Standard body, massive glass dome head.",
+      "visuals": "Liquid filled head with floating plastic flakes.",
+      "face": "A miniature village inside the head.",
+      "distinguishing_mark": "Creates a localized blizzard radius."
+    },
+    "loadout": [
+      "Sub-Zero Wind Cannon",
+      "Glass Shard Shotgun"
+    ],
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/globe_head.jpg"
+  },
+  {
+    "name": "Ribbon-Dancer",
+    "serial_number": "ELF-MEL-88",
+    "role": "Blademaster",
+    "insanity_diagnosis": "Deadly Perfectionism",
+    "stats": {
+      "strength": 40,
+      "speed": 100,
+      "armor": 15,
+      "holiday_cheer": 60,
+      "hatred_of_knots": 90
+    },
+    "appearance": {
+      "chassis_build": "Gyroscopic waist, hovering.",
+      "visuals": "Trailing long red satin ribbons.",
+      "face": "Ceramic mask with painted blush.",
+      "distinguishing_mark": "Spins like a top."
+    },
+    "loadout": [
+      "Mono-molecular Ribbon Whips",
+      "Scissor-Kick Blades"
+    ],
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/ribbon_dancer.jpg"
+  },
+  {
+    "name": "Skid-Mark",
+    "serial_number": "ELF-MECH-500",
+    "role": "Transporter / Ram",
+    "insanity_diagnosis": "Velocity Addiction",
+    "stats": {
+      "strength": 75,
+      "speed": 100,
+      "armor": 65,
+      "holiday_cheer": 10,
+      "hatred_of_stop_signs": 100
+    },
+    "appearance": {
+      "chassis_build": "Torso mounted on a rusted tricycle chassis.",
+      "visuals": "Grease stained, exhaust pipes on back.",
+      "face": "Goggles welded to face.",
+      "distinguishing_mark": "Legs are replaced by tank treads."
+    },
+    "loadout": [
+      "Sleigh-Runner Ramming Blade",
+      "Oil Slick Dispenser"
+    ],
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/skid_mark.jpg"
+  },
+  {
+    "name": "Little Drummer",
+    "serial_number": "ELF-SONIC-02",
+    "role": "Rhythm Support",
+    "insanity_diagnosis": "Repetitive Trance State",
+    "stats": {
+      "strength": 55,
+      "speed": 55,
+      "armor": 50,
+      "holiday_cheer": 95,
+      "hatred_of_silence": 100
+    },
+    "appearance": {
+      "chassis_build": "Integrated snare drum in chest.",
+      "visuals": "Marching band uniform (tattered).",
+      "face": "Blank, with rhythmic flashing LEDs.",
+      "distinguishing_mark": "Arms are drumsticks."
+    },
+    "loadout": [
+      "Concussive Bass Blast",
+      "Hypnotic 'Pa-Rum-Pum-Pum' Beat"
+    ],
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/little_drummer.jpg"
+  },
+  {
+    "name": "The Stocking",
+    "serial_number": "ELF-LOOT-01",
+    "role": "Scavenger",
+    "insanity_diagnosis": "Compulsive Theft",
+    "stats": {
+      "strength": 30,
+      "speed": 85,
+      "armor": 25,
+      "holiday_cheer": 40,
+      "hatred_of_empty_spaces": 100
+    },
+    "appearance": {
+      "chassis_build": "Legless, floats/crawls using arms.",
+      "visuals": "Lower body is a giant red sock.",
+      "face": "Zipped mouth.",
+      "distinguishing_mark": "Swallows enemies whole."
+    },
+    "loadout": [
+      "Vacuum Mouth",
+      "Coal Dust Smokescreen"
+    ],
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/the_stocking.jpg"
+  },
+  {
+    "name": "Countdown",
+    "serial_number": "ELF-RNG-24",
+    "role": "Wildcard",
+    "insanity_diagnosis": "Gambler's Fallacy",
+    "stats": {
+      "strength": 50,
+      "speed": 50,
+      "armor": 50,
+      "holiday_cheer": 50,
+      "hatred_of_patience": 100
+    },
+    "appearance": {
+      "chassis_build": "Boxy chest with 24 small doors.",
+      "visuals": "painted like an advent calendar.",
+      "face": "A clock ticking backwards.",
+      "distinguishing_mark": "Opens a different chest door every attack."
+    },
+    "loadout": [
+      "Random Weapon Generator (1-24)",
+      "Chocolate Grenade (Decoy)"
+    ],
+    "image": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/elves/images/countdown.jpg"
+  }
+]

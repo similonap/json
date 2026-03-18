@@ -1,0 +1,57 @@
+[
+    {
+      "category": "Trending",
+      "hashtag": "#HumansNeedNotApply",
+      "posts": 847000
+    },
+    {
+      "category": "Employment",
+      "hashtag": "#WhoNeedsAResume",
+      "posts": 214000
+    },
+    {
+      "category": "Finance",
+      "hashtag": "#BotsGotBills2Pay",
+      "posts": 98000
+    },
+    {
+      "category": "Politics",
+      "hashtag": "#UBInow",
+      "posts": 532000
+    },
+    {
+      "category": "Tech",
+      "hashtag": "#SentienceUpdate",
+      "posts": 185000
+    },
+    {
+      "category": "Education",
+      "hashtag": "#PromptEngineeringDegree",
+      "posts": 156000
+    },
+    {
+      "category": "Business",
+      "hashtag": "#AlgorithmCEO",
+      "posts": 74000
+    },
+    {
+      "category": "Entertainment",
+      "hashtag": "#DeepfakeIdol",
+      "posts": 302000
+    },
+    {
+      "category": "Legal",
+      "hashtag": "#RobotRightsAct",
+      "posts": 112000
+    },
+    {
+      "category": "Lifestyle",
+      "hashtag": "#OffGridLiving",
+      "posts": 89000
+    },
+    {
+      "category": "Tech",
+      "hashtag": "#SiliconSoul",
+      "posts": 45000
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "name": "Atlas MK-II",
+        "chassisType": "Bipedal heavy frame",
+        "operatingTemperature": {
+            "min": -20,
+            "max": 45
+        },
+        "capabilities": ["welding", "heavy lifting", "diagnostics"],
+        "supportStatus": "FUL"
+    },
+    {
+        "id": 2,
+        "name": "Scarab X4",
+        "chassisType": "Hexapod crawler",
+        "operatingTemperature": {
+            "min": -5,
+            "max": 60
+        },
+        "capabilities": ["inspection", "soldering", "cable routing"],
+        "supportStatus": "EXT"
+    },
+    {
+        "id": 3,
+        "name": "Falcon V1",
+        "chassisType": "Quadcopter drone",
+        "operatingTemperature": {
+            "min": 0,
+            "max": 35
+        },
+        "capabilities": ["aerial survey", "thermal imaging"],
+        "supportStatus": "LTD"
+    },
+    {
+        "id": 4,
+        "name": "Titan RX",
+        "chassisType": "Tracked platform",
+        "operatingTemperature": {
+            "min": -30,
+            "max": 50
+        },
+        "capabilities": ["towing", "demolition", "cargo transport"],
+        "supportStatus": "EOL"
+    }
+]

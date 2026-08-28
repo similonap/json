@@ -1,0 +1,26 @@
+[
+    {
+        "username": "marasteel",
+        "fullname": "Mara Steel",
+        "pincode": "1234",
+        "avatar": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/robots/images/marasteel.png"
+    },
+    {
+        "username": "dvolt",
+        "fullname": "Dexter Volt",
+        "pincode": "2580",
+        "avatar": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/robots/images/dvolt.png"
+    },
+    {
+        "username": "ncircuit",
+        "fullname": "Nina Circuit",
+        "pincode": "4321",
+        "avatar": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/robots/images/ncircuit.png"
+    },
+    {
+        "username": "otorque",
+        "fullname": "Omar Torque",
+        "pincode": "9876",
+        "avatar": "https://raw.githubusercontent.com/similonap/json/refs/heads/master/robots/images/otorque.png"
+    }
+]

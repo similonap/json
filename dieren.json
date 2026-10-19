@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "naam": "Bobby",
+    "soort": "hond",
+    "leeftijd": 4,
+    "geplaatst": false,
+    "beschrijving": "Een vrolijke beagle die graag wandelt en nog liever eet."
+  },
+  {
+    "id": 2,
+    "naam": "Minoes",
+    "soort": "kat",
+    "leeftijd": 2,
+    "geplaatst": false,
+    "beschrijving": "Nieuwsgierige cyperse kat, houdt van vensterbanken en zon."
+  },
+  {
+    "id": 3,
+    "naam": "Flappie",
+    "soort": "konijn",
+    "leeftijd": 1,
+    "geplaatst": true,
+    "beschrijving": "Hangoor met een zwak voor wortelloof."
+  },
+  {
+    "id": 4,
+    "naam": "Rex",
+    "soort": "hond",
+    "leeftijd": 7,
+    "geplaatst": false,
+    "beschrijving": "Rustige herder, goed met kinderen, kent de basiscommando's."
+  },
+  {
+    "id": 5,
+    "naam": "Luna",
+    "soort": "kat",
+    "leeftijd": 5,
+    "geplaatst": true,
+    "beschrijving": "Zwarte kat met groene ogen. Kiest zelf wanneer ze geaaid wil worden."
+  },
+  {
+    "id": 6,
+    "naam": "Snuffel",
+    "soort": "konijn",
+    "leeftijd": 3,
+    "geplaatst": false,
+    "beschrijving": "Zoekt een maatje; leeft het liefst met een tweede konijn."
+  },
+  {
+    "id": 7,
+    "naam": "Max",
+    "soort": "hond",
+    "leeftijd": 2,
+    "geplaatst": false,
+    "beschrijving": "Energieke border collie. Niet voor een appartement."
+  },
+  {
+    "id": 8,
+    "naam": "Tijger",
+    "soort": "kat",
+    "leeftijd": 9,
+    "geplaatst": false,
+    "beschrijving": "Oudere kater die een rustige thuis zoekt. Spint luid."
+  },
+  {
+    "id": 9,
+    "naam": "Pluis",
+    "soort": "konijn",
+    "leeftijd": 2,
+    "geplaatst": false,
+    "beschrijving": "Witte dwergkonijn, tam en handzaam."
+  },
+  {
+    "id": 10,
+    "naam": "Bella",
+    "soort": "hond",
+    "leeftijd": 6,
+    "geplaatst": true,
+    "beschrijving": "Labrador met een gouden karakter."
+  },
+  {
+    "id": 11,
+    "naam": "Simba",
+    "soort": "kat",
+    "leeftijd": 1,
+    "geplaatst": false,
+    "beschrijving": "Rosse kitten, speels en al zindelijk."
+  },
+  {
+    "id": 12,
+    "naam": "Nero",
+    "soort": "hond",
+    "leeftijd": 3,
+    "geplaatst": false,
+    "beschrijving": "Zwarte kruising, slim en leergierig."
+  },
+  {
+    "id": 13,
+    "naam": "Mimi",
+    "soort": "kat",
+    "leeftijd": 4,
+    "geplaatst": false,
+    "beschrijving": "Aanhankelijke lapjeskat die graag op schoot ligt."
+  },
+  {
+    "id": 14,
+    "naam": "Stamper",
+    "soort": "konijn",
+    "leeftijd": 4,
+    "geplaatst": true,
+    "beschrijving": "Groot grijs konijn met veel karakter."
+  },
+  {
+    "id": 15,
+    "naam": "Tess",
+    "soort": "hond",
+    "leeftijd": 10,
+    "geplaatst": false,
+    "beschrijving": "Senior die nog graag korte wandelingen maakt."
+  },
+  {
+    "id": 16,
+    "naam": "Pixel",
+    "soort": "kat",
+    "leeftijd": 3,
+    "geplaatst": false,
+    "beschrijving": "Grijze kater met witte pootjes. Kan alleen blijven."
+  },
+  {
+    "id": 17,
+    "naam": "Oscar",
+    "soort": "hond",
+    "leeftijd": 1,
+    "geplaatst": false,
+    "beschrijving": "Jonge jack russell, veel energie, zoekt een actief gezin."
+  },
+  {
+    "id": 18,
+    "naam": "Nala",
+    "soort": "kat",
+    "leeftijd": 7,
+    "geplaatst": true,
+    "beschrijving": "Siamese met blauwe ogen en een mening over alles."
+  },
+  {
+    "id": 19,
+    "naam": "Wortel",
+    "soort": "konijn",
+    "leeftijd": 1,
+    "geplaatst": false,
+    "beschrijving": "Jong rood konijn, nog wat schuw."
+  },
+  {
+    "id": 20,
+    "naam": "Dolly",
+    "soort": "hond",
+    "leeftijd": 5,
+    "geplaatst": false,
+    "beschrijving": "Teckel met korte pootjes en een groot hart."
+  }
+]

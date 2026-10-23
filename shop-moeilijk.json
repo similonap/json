@@ -1,0 +1,25 @@
+{
+  "products": [
+    { "id": 1, "name": "Axolotl met wifi-aquarium", "price": 149.99, "category": "Dieren" },
+    { "id": 2, "name": "Octopus-toetsenbord (8 armen, 8 shortcuts)", "price": 89.5, "category": "Computer" },
+    { "id": 3, "name": "Luiaard-laadkabel (laadt héél traag)", "price": 4.99, "category": "Opladen" },
+    { "id": 4, "name": "Pangolin-powerbank", "price": 39.95, "category": "Opladen" },
+    { "id": 5, "name": "Tardigrade-smartwatch (onverwoestbaar)", "price": 249.0, "category": "Gadgets" },
+    { "id": 6, "name": "Lichtgevende kwal-lamp", "price": 59.99, "category": "Smart home" },
+    { "id": 7, "name": "Kameleon-telefoonhoesje", "price": 24.95, "category": "Gadgets" },
+    { "id": 8, "name": "Capibara-koptelefoon (extra relaxed)", "price": 119.0, "category": "Audio" },
+    { "id": 9, "name": "Mantisgarnaal-gamingmuis", "price": 69.99, "category": "Gaming" },
+    { "id": 10, "name": "Vogelbekdier-webcam", "price": 54.5, "category": "Camera's" },
+    { "id": 11, "name": "Vleermuis-nachtzichtcamera", "price": 179.0, "category": "Camera's" },
+    { "id": 12, "name": "Egel-USB-hub (7 stekels, 7 poorten)", "price": 29.99, "category": "Computer" },
+    { "id": 13, "name": "Pinguïn-minikoelkast voor je bureau", "price": 99.0, "category": "Smart home" },
+    { "id": 14, "name": "Wandelende-tak-selfiestick", "price": 14.95, "category": "Gadgets" },
+    { "id": 15, "name": "Blobvis-stressbal met druksensor", "price": 19.99, "category": "Gadgets" },
+    { "id": 16, "name": "Narwal-USB-stick 256 GB", "price": 34.99, "category": "Computer" },
+    { "id": 17, "name": "Pratende papegaai met Bluetooth", "price": 399.0, "category": "Dieren" },
+    { "id": 18, "name": "Vliegende-eekhoorn-drone", "price": 289.0, "category": "Gadgets" },
+    { "id": 19, "name": "Okapi-gamingheadset", "price": 84.95, "category": "Gaming" },
+    { "id": 20, "name": "Robotkat die je code reviewt", "price": 499.99, "category": "Gadgets" }
+]
+
+}

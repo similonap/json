@@ -171,18 +171,24 @@
       }
     ]
   },
-  [
-    {
-      "usage": "chmod +x deploy.sh",
-      "explanation": "Make a script executable."
-    },
-    {
-      "usage": "chmod 644 index.html",
-      "explanation": "Owner can read/write; group and others can only read."
-    },
-    {
-      "usage": "chmod -R 755 public/",
-      "explanation": "Recursively set permissions on a directory: owner full access, others read and execute."
+  {
+      "rank": 10,
+      "command": "chmod",
+      "description": "Changes the read, write and execute permissions of files and directories.",
+      "syntax": "chmod [options] mode file...",
+      "examples": [
+        {
+          "usage": "chmod +x deploy.sh",
+          "explanation": "Make a script executable."
+        },
+        {
+          "usage": "chmod 644 index.html",
+          "explanation": "Owner can read/write; group and others can only read."
+        },
+        {
+          "usage": "chmod -R 755 public/",
+          "explanation": "Recursively set permissions on a directory: owner full access, others read and execute."
+        }
+      ]
     }
-  ]
 ]

@@ -1,0 +1,188 @@
+[
+  {
+    "rank": 1,
+    "command": "ls",
+    "description": "Lists the files and directories in the current (or a specified) directory.",
+    "syntax": "ls [options] [path]",
+    "examples": [
+      {
+        "usage": "ls",
+        "explanation": "List files in the current directory."
+      },
+      {
+        "usage": "ls -la",
+        "explanation": "List all files, including hidden ones, in long format with permissions, owner, size and date."
+      },
+      {
+        "usage": "ls -lh /var/log",
+        "explanation": "List the contents of /var/log with human-readable file sizes."
+      }
+    ]
+  },
+  {
+    "rank": 2,
+    "command": "cd",
+    "description": "Changes the current working directory.",
+    "syntax": "cd [directory]",
+    "examples": [
+      {
+        "usage": "cd /etc",
+        "explanation": "Move into the /etc directory."
+      },
+      {
+        "usage": "cd ..",
+        "explanation": "Move up one directory level."
+      },
+      {
+        "usage": "cd ~",
+        "explanation": "Return to your home directory."
+      },
+      {
+        "usage": "cd -",
+        "explanation": "Switch back to the previous directory."
+      }
+    ]
+  },
+  {
+    "rank": 3,
+    "command": "pwd",
+    "description": "Prints the full path of the current working directory.",
+    "syntax": "pwd [options]",
+    "examples": [
+      {
+        "usage": "pwd",
+        "explanation": "Show where you are in the file system, e.g. /home/user/projects."
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "command": "mkdir",
+    "description": "Creates new directories.",
+    "syntax": "mkdir [options] directory...",
+    "examples": [
+      {
+        "usage": "mkdir reports",
+        "explanation": "Create a directory named 'reports'."
+      },
+      {
+        "usage": "mkdir -p projects/2026/october",
+        "explanation": "Create the full nested path, including any missing parent directories."
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "command": "cp",
+    "description": "Copies files and directories.",
+    "syntax": "cp [options] source destination",
+    "examples": [
+      {
+        "usage": "cp notes.txt notes_backup.txt",
+        "explanation": "Copy a file to a new name."
+      },
+      {
+        "usage": "cp -r photos/ /mnt/backup/",
+        "explanation": "Copy a directory and all its contents recursively."
+      },
+      {
+        "usage": "cp -i config.yml /etc/app/",
+        "explanation": "Copy and ask for confirmation before overwriting an existing file."
+      }
+    ]
+  },
+  {
+    "rank": 6,
+    "command": "mv",
+    "description": "Moves or renames files and directories.",
+    "syntax": "mv [options] source destination",
+    "examples": [
+      {
+        "usage": "mv draft.txt final.txt",
+        "explanation": "Rename a file."
+      },
+      {
+        "usage": "mv report.pdf ~/Documents/",
+        "explanation": "Move a file into another directory."
+      },
+      {
+        "usage": "mv -n *.log logs/",
+        "explanation": "Move all .log files into 'logs/' without overwriting existing files."
+      }
+    ]
+  },
+  {
+    "rank": 7,
+    "command": "rm",
+    "description": "Removes (deletes) files and directories. Deleted items do not go to a trash bin, so use with care.",
+    "syntax": "rm [options] file...",
+    "examples": [
+      {
+        "usage": "rm old.txt",
+        "explanation": "Delete a single file."
+      },
+      {
+        "usage": "rm -i *.tmp",
+        "explanation": "Delete all .tmp files, asking for confirmation for each one."
+      },
+      {
+        "usage": "rm -r build/",
+        "explanation": "Delete a directory and everything inside it."
+      }
+    ]
+  },
+  {
+    "rank": 8,
+    "command": "cat",
+    "description": "Displays the contents of files, and can concatenate multiple files together.",
+    "syntax": "cat [options] file...",
+    "examples": [
+      {
+        "usage": "cat /etc/hostname",
+        "explanation": "Print the contents of a file to the terminal."
+      },
+      {
+        "usage": "cat part1.txt part2.txt > full.txt",
+        "explanation": "Combine two files into a new file."
+      },
+      {
+        "usage": "cat -n script.sh",
+        "explanation": "Display a file with line numbers."
+      }
+    ]
+  },
+  {
+    "rank": 9,
+    "command": "grep",
+    "description": "Searches text or files for lines matching a pattern (supports regular expressions).",
+    "syntax": "grep [options] pattern [file...]",
+    "examples": [
+      {
+        "usage": "grep \"error\" app.log",
+        "explanation": "Show all lines in app.log containing 'error'."
+      },
+      {
+        "usage": "grep -ri \"todo\" src/",
+        "explanation": "Search recursively in src/ for 'todo', ignoring case."
+      },
+      {
+        "usage": "ps aux | grep nginx",
+        "explanation": "Filter the running process list to lines mentioning nginx."
+      }
+    ]
+  },
+  [
+    {
+      "usage": "chmod +x deploy.sh",
+      "explanation": "Make a script executable."
+    },
+    {
+      "usage": "chmod 644 index.html",
+      "explanation": "Owner can read/write; group and others can only read."
+    },
+    {
+      "usage": "chmod -R 755 public/",
+      "explanation": "Recursively set permissions on a directory: owner full access, others read and execute."
+    }
+  ]
+]
